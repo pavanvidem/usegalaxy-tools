@@ -21,6 +21,7 @@ tools:
   - 5eb7e84243f2
   - 64172f1c1202
   - 660cffd8d92a
+  - 80766b36005d
   - 8c0175e03cee
   - 944ae523bacb
   - aa784cb3810d
@@ -53,6 +54,7 @@ tools:
   - d60c3f704da0
   - dbf9c561ef29
   - dbfc505896e9
+  - f875da9d433c
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_trimmer
@@ -320,6 +322,7 @@ tools:
 - name: filtlong
   owner: iuc
   revisions:
+  - 0d9cd7b02f14
   - 1f296803dfa3
   - 41b2ad601cf0
   - 8880fb74ef56
@@ -345,6 +348,7 @@ tools:
 - name: ucsc_fasplit
   owner: iuc
   revisions:
+  - 1add611a6018
   - 71f649c23021
   - bf04bd405d5b
   - d3f58a0dc09d
