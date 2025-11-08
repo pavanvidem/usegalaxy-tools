@@ -41,6 +41,7 @@ tools:
   - 6c829a430475
   - 75acf92c8fd5
   - 7b925f7c50b2
+  - 95be88b49f4e
   - a3395b1d871b
   - a6a475ed58cb
   - b2ae7186d41f
@@ -95,6 +96,7 @@ tools:
 - name: iedb_api
   owner: iuc
   revisions:
+  - 1911ec100221
   - 7ed6dda64a81
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
