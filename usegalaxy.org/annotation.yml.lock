@@ -27,6 +27,7 @@ tools:
   - 09855551d713
   - 0fc0f9cf035a
   - 28433faa6e42
+  - 534814b64234
   - bd0e53f3a891
   - ca6d970d931c
   tool_panel_section_id: annotation
@@ -34,6 +35,7 @@ tools:
 - name: augustus_training
   owner: bgruening
   revisions:
+  - 2fdc599f2814
   - 6519ebe25019
   - 7be22100e5e1
   - aada0deea587
@@ -67,6 +69,7 @@ tools:
   - 4e70d88adf2f
   - 602fb8e63aa7
   - 94170eee0ad8
+  - c5a90fa4b8dd
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -213,6 +216,7 @@ tools:
   - 67b793424b0c
   - 8ada50a892fa
   - a77f693df58c
+  - d129c3d0e920
   - ff65a73f5379
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -276,6 +280,7 @@ tools:
   - 2c68b0c38785
   - 4839e590cb26
   - 51dd22484644
+  - 60a1dad331ec
   - 809dfc93d593
   - 8cb134b8c1a5
   - ac8250086ac3
@@ -387,6 +392,7 @@ tools:
   owner: iuc
   revisions:
   - 53b22b7dff19
+  - 945b31d82638
   - c0a0e79d7196
   - c5f2ce99da69
   - e7a2086a0f03
@@ -401,6 +407,7 @@ tools:
   - 54acd5139cab
   - 640c0b8cc8bf
   - 948903a8555d
+  - d0632d8bac6a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: cooc_mutbamscan
@@ -515,11 +522,13 @@ tools:
   revisions:
   - 438287deae4b
   - aeb4c76d007b
+  - e64445f727cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot
   owner: iuc
   revisions:
+  - 20d725740701
   - 6b20d051d0dc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -535,11 +544,13 @@ tools:
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
+  - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: isescan
   owner: iuc
   revisions:
+  - 81539b9ae80a
   - 9e776e7fab4f
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -584,6 +595,7 @@ tools:
 - name: omark
   owner: iuc
   revisions:
+  - 0291e0e81551
   - 6f570ba54b41
   - ceb52582a5b1
   tool_panel_section_id: annotation
@@ -598,5 +610,6 @@ tools:
   owner: iuc
   revisions:
   - 59d308975e63
+  - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

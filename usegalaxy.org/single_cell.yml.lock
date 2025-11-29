@@ -370,6 +370,7 @@ tools:
   revisions:
   - 31e5e6d606ef
   - 53a251c6d991
+  - 7ef2403a250d
   - 825dfd66e3fb
   - a4774b7b2e85
   tool_panel_section_id: single_cell
@@ -442,6 +443,7 @@ tools:
   owner: bgruening
   revisions:
   - 04b494623f8e
+  - '528052085629'
   - b0fe3e482cb7
   - c9944a2600f1
   - e32b215b7c04
@@ -613,6 +615,7 @@ tools:
   revisions:
   - 883c33ef3372
   - 90e95e9ee190
+  - f66590d0d3af
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: gsc_scran_normalize
@@ -629,12 +632,14 @@ tools:
   - 8f8bef61fd0b
   - 94ae400dde2f
   - afb90d3485df
+  - d258720d9a42
   - d3ea0ba3d066
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: snapatac2_peaks_and_motif
   owner: iuc
   revisions:
+  - 02a7162fc510
   - 588c811fdd48
   - 64fa083411f1
   - 88192fe25375
@@ -646,6 +651,7 @@ tools:
   owner: iuc
   revisions:
   - 05bd4db20227
+  - 1ac4a5f05f33
   - 370d45e0d1a8
   - c01f0a08ab43
   - fbf62973e556
@@ -655,6 +661,7 @@ tools:
 - name: snapatac2_preprocessing
   owner: iuc
   revisions:
+  - 20c4011e1458
   - 48d9421bf176
   - 4ecdea4cbea1
   - c5c94e01a1b5
@@ -666,6 +673,7 @@ tools:
   owner: ebi-gxa
   revisions:
   - 09c833d9b03b
+  - 2557d7869e78
   - 508a93e34599
   - ef054892d47f
   tool_panel_section_id: single_cell
