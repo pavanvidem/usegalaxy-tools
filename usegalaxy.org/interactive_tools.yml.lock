@@ -6,6 +6,7 @@ tools:
   owner: goeckslab
   revisions:
   - 1ee654186809
+  - 30ddc96b5818
   - 569f6683ef2d
   - 5c1018ad5eb3
   - 7b33a7a006c7
@@ -17,5 +18,6 @@ tools:
   owner: enis
   revisions:
   - 8f95c3031339
+  - a0b7364f35df
   tool_panel_section_id: interactive_tools
   tool_panel_section_label: Interactive Tools
