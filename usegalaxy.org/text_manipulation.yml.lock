@@ -10,6 +10,7 @@ tools:
   - 13b6f0007d9e
   - 427903d47026
   - 464b9305180e
+  - 61f9ddbc63ca
   - 6595517c2dd8
   - 6e8d94597139
   - aff5135563c6
@@ -37,6 +38,7 @@ tools:
   - 468c71dac78a
   - 95fb5712344f
   - af5eccf83605
+  - bf5121c5c2be
   - bfdc6a7ffd3a
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
@@ -45,6 +47,7 @@ tools:
   revisions:
   - 06061aa49527
   - 3284b72eef56
+  - 8061668d0868
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: replace_column_by_key_value_file
@@ -65,6 +68,7 @@ tools:
   - 60edf2f8c28f
   - 86755160afbf
   - 9ff72e942410
+  - ab83aa685821
   - d698c222f354
   - ddf54b12c295
   - e39fceb6ab85
@@ -118,6 +122,7 @@ tools:
   - 56a8da1f2243
   - 60ff16842fcd
   - 93a3ce78ce55
+  - cd36d6e45e29
   - dddadbbac949
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
@@ -183,6 +188,7 @@ tools:
   owner: bgruening
   revisions:
   - 6c6d26ff01ff
+  - dcc6bb900eee
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: add_line_to_file
