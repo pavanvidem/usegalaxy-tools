@@ -9,6 +9,7 @@ tools:
   - 331a50e8fd2f
   - 545054b15d7c
   - 6153e8ada1ee
+  - 8edfcbf32616
   - ab6c14374bc0
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -78,12 +79,14 @@ tools:
   - 00e66c401366
   - 07cac38cbd29
   - 357df6c47d92
+  - 3f7790b73906
   - 83c4b4359ac4
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: matchms_formatter
   owner: recetox
   revisions:
+  - 5fa29e292e12
   - 6501d0287dcd
   - 715fe77be601
   - 9e3c83d2afc3
@@ -95,18 +98,21 @@ tools:
   revisions:
   - 2ec9253a647e
   - da7722f665f4
+  - f52181a205d3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: ramclustr_define_experiment
   owner: recetox
   revisions:
   - 25625114618e
+  - ef3cbcdf5f5d
   - f2c1d0bbb074
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: riassigner
   owner: recetox
   revisions:
+  - 9b2fe4c49ecb
   - af25aa61c611
   - c702620c22b1
   - f6bf8f1f3224
@@ -119,6 +125,7 @@ tools:
   - 1a2aeb8137bf
   - 6fc9f6dbcef5
   - b77023c41c76
+  - bf28a0fc0db6
   - bf32ae95a06f
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -167,6 +174,7 @@ tools:
 - name: intensity_checks
   owner: melpetera
   revisions:
+  - 2e580585782e
   - a31f3f802b2b
   - ec75de7f1e08
   tool_panel_section_id: metabolomics
