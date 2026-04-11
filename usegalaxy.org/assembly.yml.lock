@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -27,6 +28,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 3061c8b029e5
   - 59db8ea8c845
   - 675488238c96
@@ -520,6 +522,7 @@ tools:
   owner: iuc
   revisions:
   - c4758f3bf36e
+  - cc8029eca6e9
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_histogram_kmers

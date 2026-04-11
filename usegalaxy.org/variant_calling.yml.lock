@@ -50,6 +50,7 @@ tools:
 - name: freebayes
   owner: devteam
   revisions:
+  - 0d8581534009
   - 156b60c1530f
   - 1e1291983bc7
   - 3e954e7125bf
@@ -170,6 +171,7 @@ tools:
   owner: iuc
   revisions:
   - 77fc7640abc7
+  - bf1bdb62d882
   - e6ef29001647
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -211,6 +213,7 @@ tools:
   revisions:
   - 1cea23583655
   - 287c4af133e6
+  - 2898012c5265
   - 3be27a9a7313
   - 53ce8be43212
   - fb0bb7174530
@@ -335,5 +338,6 @@ tools:
   - 6d1f577b3e47
   - 703a2cb3fb38
   - 7a5a2d28c539
+  - 88e27e10b1ed
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

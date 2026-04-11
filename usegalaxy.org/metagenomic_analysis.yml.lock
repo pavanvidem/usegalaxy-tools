@@ -9,6 +9,7 @@ tools:
   - 20e2f64aa1fe
   - 328c607150ff
   - 4a9da2b6c2e3
+  - cbe396d9773e
   - cdee7158adf3
   - e674066930b2
   tool_panel_section_id: metagenomic_analysis
@@ -21,6 +22,7 @@ tools:
   - 60f307965815
   - 62c9df8382c2
   - 64be1ac21109
+  - a02aa0dfb850
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -244,6 +246,7 @@ tools:
   - 1770d188f72d
   - 1bc3657cd694
   - 5b752525bd6f
+  - 6bd7c48ff6ed
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
@@ -296,6 +299,7 @@ tools:
 - name: dada2_makesequencetable
   owner: iuc
   revisions:
+  - 0b1ce4edabc7
   - 1c9b3bcd4261
   - 43c99742158b
   - 75c8945b0da2
@@ -607,6 +611,7 @@ tools:
   revisions:
   - bb96a1e6583d
   - d33cf727ed94
+  - fd7d3bfb0fa8
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: krakentools_beta_diversity
