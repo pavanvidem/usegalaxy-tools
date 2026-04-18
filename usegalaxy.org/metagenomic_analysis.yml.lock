@@ -9,6 +9,7 @@ tools:
   - 20e2f64aa1fe
   - 328c607150ff
   - 4a9da2b6c2e3
+  - cbe396d9773e
   - cdee7158adf3
   - e674066930b2
   tool_panel_section_id: metagenomic_analysis
@@ -16,6 +17,7 @@ tools:
 - name: diamond
   owner: bgruening
   revisions:
+  - 1196fc76fdc2
   - 1e3323a44643
   - 54f751e413f4
   - 60f307965815
@@ -200,6 +202,7 @@ tools:
   - 4e469b758915
   - 52a911972c02
   - 7b8cb2b02978
+  - a204f3983d22
   - a58e4a43f49c
   - cae017b76acb
   - d60df8727f59
@@ -483,6 +486,7 @@ tools:
   owner: iuc
   revisions:
   - 95bf7479d53c
+  - a00df747f03c
   - c2803012bbb3
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
@@ -502,6 +506,7 @@ tools:
   - 1a037928504c
   - 1a6cdf55390f
   - 289b3807e80c
+  - 56ff60ec416d
   - 740fd2d16a28
   - b6897977d13e
   - ec368db926f4
@@ -719,6 +724,7 @@ tools:
   owner: iuc
   revisions:
   - 19e4e2d98ebb
+  - c7dddac32efc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_taxon_set
@@ -783,6 +789,7 @@ tools:
   owner: iuc
   revisions:
   - 99ff9221182c
+  - afee33334a63
   - b5a7583b8db0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

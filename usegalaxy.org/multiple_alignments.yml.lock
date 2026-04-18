@@ -85,6 +85,7 @@ tools:
   - 315c678562d2
   - 5561a1193611
   - 60698466facd
+  - b03f8fcbd240
   - c9685bc0407c
   - deacc6b40cc0
   tool_panel_section_id: multiple_alignments
@@ -105,6 +106,7 @@ tools:
   revisions:
   - 029a793f39b6
   - 4fc0cb2ac8ae
+  - 75e15ee43896
   - c0cedc12fcc5
   - e8c60daa41e0
   - ebe3b0f84de9

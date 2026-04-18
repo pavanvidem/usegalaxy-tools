@@ -35,6 +35,7 @@ tools:
   - 0c16cad5e03b
   - 26371a1df031
   - 6c19daec423d
+  - b12d81af0291
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
@@ -95,6 +96,7 @@ tools:
 - name: diamond
   owner: bgruening
   revisions:
+  - 1196fc76fdc2
   - 1e3323a44643
   - 54f751e413f4
   - 60f307965815
@@ -189,6 +191,7 @@ tools:
   - 31d5c8c3adde
   - 3c5e024a18cf
   - 3c97c841a443
+  - a3e78550e42e
   - f99dd58de04f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -537,6 +540,7 @@ tools:
   revisions:
   - 298d81e5e138
   - b3f292d9f35d
+  - d3377a16d881
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: brew3r_r

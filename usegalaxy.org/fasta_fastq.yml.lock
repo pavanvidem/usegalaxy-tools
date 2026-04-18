@@ -147,6 +147,7 @@ tools:
   revisions:
   - 2ccb8dcabddc
   - 3e396e702cea
+  - acb5090e281f
   - b41c2c1bcfbf
   - ef49268ee579
   tool_panel_section_id: fasta_fastq
@@ -191,6 +192,7 @@ tools:
   - 4ac14b275aca
   - 5b87038565bb
   - 7861f3b10c68
+  - e06d41f3ed3e
   - e30352e889fe
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

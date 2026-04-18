@@ -118,6 +118,7 @@ tools:
   revisions:
   - 282a658c6569
   - 5f893ed3c5ed
+  - 754f70dd85ae
   - e72c320c17c1
   - e8d84292e510
   - f7229c8445da
@@ -138,6 +139,7 @@ tools:
   owner: iuc
   revisions:
   - 09c6a9e067f9
+  - 0eb744382179
   - 42b239a32349
   - 4d97434ea0fb
   - 75a08e10cc76
@@ -215,6 +217,7 @@ tools:
   - 39881709807e
   - 3e81299dfce3
   - 601575b847c0
+  - 77f67ddd89d6
   - 8dbc700cb940
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
