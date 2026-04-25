@@ -99,6 +99,7 @@ tools:
   - 158b5b2a164a
   - 60ca8d013263
   - 6ee334657360
+  - 908df9a9f86b
   - e13f565068d6
   - e5340c09200a
   tool_panel_section_id: convert_formats
@@ -118,6 +119,7 @@ tools:
   revisions:
   - 282a658c6569
   - 5f893ed3c5ed
+  - 754f70dd85ae
   - e72c320c17c1
   - e8d84292e510
   - f7229c8445da
@@ -226,12 +228,14 @@ tools:
   - 3cf310697624
   - 545054b15d7c
   - 6153e8ada1ee
+  - 8edfcbf32616
   - ab6c14374bc0
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: ucsc_wigtobigwig
   owner: iuc
   revisions:
+  - 0dcdef015deb
   - 98704d357ede
   - a2f83a375bf2
   - fa49730d1d4b
@@ -262,6 +266,7 @@ tools:
   - 24eec94e6dfc
   - 6ff67d2860e1
   - def7a82d23e1
+  - e58dc53cb0c7
   - f3233d395549
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -270,6 +275,7 @@ tools:
   revisions:
   - 3a4256d4f079
   - a6540beef35f
+  - bb486fb0103d
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: ucsc_axttomaf

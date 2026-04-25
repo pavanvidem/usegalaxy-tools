@@ -119,6 +119,7 @@ tools:
   - 1a2aeb8137bf
   - 6fc9f6dbcef5
   - b77023c41c76
+  - bf28a0fc0db6
   - bf32ae95a06f
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -167,6 +168,7 @@ tools:
 - name: intensity_checks
   owner: melpetera
   revisions:
+  - 2e580585782e
   - a31f3f802b2b
   - ec75de7f1e08
   tool_panel_section_id: metabolomics

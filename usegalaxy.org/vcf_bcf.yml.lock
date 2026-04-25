@@ -194,6 +194,7 @@ tools:
   - 3897eaadfbff
   - 4b796b58938b
   - 8aa9d9b14bcd
+  - 9268b0ad92af
   - aa998b9898b1
   - b74b8cbfc1f1
   - bdfdf5f6e950
@@ -353,6 +354,7 @@ tools:
   - bf7d6acd9884
   - c01be0ab9806
   - cbfa272e5a6a
+  - fea209b23f19
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_fill_an_ac
@@ -489,6 +491,7 @@ tools:
   - 3f6fadf8b8ff
   - 3f7900995059
   - 4813f99d81b7
+  - ade0d3c3ec1c
   - b781fa08aa3c
   - be6b217710af
   - c08a369cfd10
@@ -501,6 +504,7 @@ tools:
   revisions:
   - 11af7fce71cf
   - 262bba5b90ef
+  - 394dbf428c7b
   - 681bdf1e22ff
   - 6a5fa818bd0d
   - 76609128aef7

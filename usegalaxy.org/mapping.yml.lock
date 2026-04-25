@@ -11,6 +11,7 @@ tools:
   - 8a7462c0ac14
   - a07a2d9ddd42
   - a287431cdf4f
+  - d3ece1957fdb
   - d8b6f0adaa79
   - f9b72a376ec9
   - fb4975b507c6
@@ -100,6 +101,7 @@ tools:
   - 11a0d50a54e6
   - 1f06dccdc5d1
   - 3f4d6399997b
+  - 3faf9a2bf58d
   - 53c0b7a1a0c3
   - 5cc34c3f440d
   - 66367287b4e6
@@ -221,6 +223,7 @@ tools:
 - name: ucsc_chainsort
   owner: iuc
   revisions:
+  - 07c87c2ab74b
   - 5815f5bd9ac8
   - c953dbade109
   - fff37ce2d95d
@@ -229,6 +232,7 @@ tools:
 - name: ucsc_chainprenet
   owner: iuc
   revisions:
+  - 2a417e645e61
   - 7b0b810b495f
   - fa0a3a618a57
   tool_panel_section_id: mapping

@@ -46,6 +46,7 @@ tools:
   revisions:
   - 10678d49d39e
   - 1d8fe9bc4cb0
+  - 241decaaff3e
   - 25c59c0ceb55
   - 65b93b623c77
   - a626e8c0e1ba
@@ -258,6 +259,7 @@ tools:
   - 33794bdb7fe0
   - b63b2bfb3ea3
   - f0b18efb97f1
+  - fe86fb89562d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_trimmer_by_quality

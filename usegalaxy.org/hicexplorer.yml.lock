@@ -406,6 +406,7 @@ tools:
   owner: iuc
   revisions:
   - 3048283ee054
+  - 74e28c7ca918
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicclustersvl
