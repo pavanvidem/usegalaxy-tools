@@ -9,6 +9,7 @@ tools:
   - 20e2f64aa1fe
   - 328c607150ff
   - 4a9da2b6c2e3
+  - cbe396d9773e
   - cdee7158adf3
   - e674066930b2
   tool_panel_section_id: metagenomic_analysis
@@ -16,6 +17,7 @@ tools:
 - name: diamond
   owner: bgruening
   revisions:
+  - 1196fc76fdc2
   - 1e3323a44643
   - 54f751e413f4
   - 60f307965815
@@ -244,6 +246,7 @@ tools:
   - 1770d188f72d
   - 1bc3657cd694
   - 5b752525bd6f
+  - 6bd7c48ff6ed
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
@@ -258,6 +261,7 @@ tools:
   - 23fc35093b11
   - 34e55239e68b
   - 777f9846c56d
+  - 81fc1ff02788
   - a9f4a217dcd6
   - addaf9d22850
   - ca73bbac615a
@@ -274,6 +278,7 @@ tools:
   - 2222f08c8316
   - 6b4ddc3b64bd
   - 84fd33a60b35
+  - 89d11e95a9b1
   - 96336c6a2bb7
   - b35a5e8ff0fe
   - f79565b12646
@@ -286,6 +291,7 @@ tools:
   - 0776d824d896
   - 39638e0aff59
   - 5fe3edf19b9c
+  - 68129ce1c59b
   - 75403243703a
   - 8c202e741d68
   - a14a18a47c36
@@ -547,6 +553,7 @@ tools:
 - name: mash
   owner: iuc
   revisions:
+  - 22384d3d25f4
   - 86dec4abcea8
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -637,6 +644,7 @@ tools:
   - 0b9d4ec77c4f
   - 24488fae5b04
   - 6000b8a8dd9d
+  - 6a067bbd4e16
   - 87064cb77a52
   - d1c93a32cb25
   tool_panel_section_id: metagenomic_analysis
@@ -649,11 +657,13 @@ tools:
   - 847f433f202b
   - b6a38f6222af
   - c0101c72b8af
+  - eed716573aba
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_ordination
   owner: iuc
   revisions:
+  - 2715e89adff4
   - 32f892954ef6
   - 5007bc8a3d90
   - bbd9d1022144
@@ -669,6 +679,7 @@ tools:
   - '817853857084'
   - d6cbeb48294d
   - fb7c4bbe8994
+  - fd170b83f148
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: gtdbtk_classify_wf
@@ -677,6 +688,7 @@ tools:
   - 30a4bdf88e14
   - 4d9445dff47b
   - c30adf839acd
+  - ed4c007af906
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: das_tool
@@ -695,12 +707,14 @@ tools:
   owner: iuc
   revisions:
   - 8345d273ba82
+  - dcbbec865b86
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_lineage_set
   owner: iuc
   revisions:
   - 3693acdbf0d6
+  - e4fdb6e48445
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_plot
@@ -749,6 +763,7 @@ tools:
   owner: iuc
   revisions:
   - 0f5f7fa9c08f
+  - 24313e0ff049
   - 66acaec9f386
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

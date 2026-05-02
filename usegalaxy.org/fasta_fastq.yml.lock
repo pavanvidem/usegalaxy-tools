@@ -47,6 +47,7 @@ tools:
   - 10678d49d39e
   - 1d8fe9bc4cb0
   - 25c59c0ceb55
+  - 4557b2da9e7f
   - 65b93b623c77
   - a626e8c0e1ba
   - c59d48774d03
@@ -137,6 +138,7 @@ tools:
   owner: devteam
   revisions:
   - 09a2199cd356
+  - 115f6bb3ae79
   - 822cc1e6274e
   - 8d958759cf2a
   - c885369b207b
@@ -147,6 +149,7 @@ tools:
   revisions:
   - 2ccb8dcabddc
   - 3e396e702cea
+  - acb5090e281f
   - b41c2c1bcfbf
   - ef49268ee579
   tool_panel_section_id: fasta_fastq

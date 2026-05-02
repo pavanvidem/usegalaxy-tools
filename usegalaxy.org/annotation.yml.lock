@@ -387,6 +387,7 @@ tools:
   owner: iuc
   revisions:
   - 53b22b7dff19
+  - 945b31d82638
   - c0a0e79d7196
   - c5f2ce99da69
   - e7a2086a0f03
@@ -520,6 +521,7 @@ tools:
 - name: miniprot
   owner: iuc
   revisions:
+  - 20d725740701
   - 6b20d051d0dc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -579,6 +581,7 @@ tools:
   owner: genouest
   revisions:
   - c2fc4ac35199
+  - cef77c1fe708
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: omark

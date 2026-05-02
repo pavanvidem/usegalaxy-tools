@@ -217,6 +217,7 @@ tools:
 - name: bcftools_plugin_dosage
   owner: iuc
   revisions:
+  - 0c50683a9c94
   - 283911fe7e1a
   - 2ee1392161a6
   - 5c232a738c74
@@ -247,6 +248,7 @@ tools:
   revisions:
   - 1da985043619
   - 8899a6d50699
+  - 9f69e7d58d03
   - ae68ceb4cca3
   - d237eaef451f
   - e6f4badbe6f3
@@ -261,6 +263,7 @@ tools:
   revisions:
   - 0117c6d2ab96
   - 277719af4dd7
+  - 3502f0e1f0e4
   - 46fcafba49ec
   - 5d6653c989cb
   - 656a916779fe
@@ -296,6 +299,7 @@ tools:
   - 5801eff9ac7e
   - 912a8ff07fc9
   - bf06b66ab5c2
+  - c277260d3fab
   - f0d44631365f
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -306,6 +310,7 @@ tools:
   - 1ccf0e7fb4f6
   - 427e353bf26f
   - 4d44109ae1f8
+  - acfd6984d130
   - b76adb2f1c51
   - bdc67eeb0bc9
   - cb681f21e670
@@ -324,6 +329,7 @@ tools:
   - af163c712539
   - b84fda8ebef0
   - b931e65638b8
+  - d3286f971e89
   - e03f2f3ac3a9
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -335,6 +341,7 @@ tools:
   - 15da1ddcfeff
   - 1fd4fd0c6ee3
   - 39bca000353d
+  - 3d21f507fc5d
   - 57f36434474f
   - 63aabc920911
   - 9ece72700ca9
@@ -392,6 +399,7 @@ tools:
   - 8057cf55fa41
   - 982bc0e518c8
   - 9ef52d95114b
+  - a0b1c0bdfa5a
   - b3b3c060962e
   - d453025d7e5d
   - d68c43202172
@@ -403,6 +411,7 @@ tools:
   - 0c1889b0917b
   - 27e2611639a9
   - 2c53c8974cb3
+  - 42345cc2c76e
   - 6d735d8f0861
   - 75becf493cd3
   - 776ad0b21536
@@ -419,6 +428,7 @@ tools:
   - 348cd212dbad
   - 7ca6120cb2a4
   - 7cea7c7bf203
+  - a20d6492132d
   - b8e9da766b0f
   - cacc9970727a
   - d58d2e8c7a57
@@ -517,6 +527,7 @@ tools:
   - 0238f68ad641
   - 143796b504eb
   - 4891338c6c54
+  - 61dfbc82ffc8
   - 635532ff1ac9
   - 6d35a3780bfd
   - 75a85c76c9c6
@@ -550,6 +561,7 @@ tools:
   - a9826db86d9a
   - dba06328556a
   - ed4ea9de1791
+  - fb631fd605e8
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_norm
@@ -557,6 +569,7 @@ tools:
   revisions:
   - 1ca7418e46ee
   - 271965b55437
+  - 5fa262ce95dd
   - 6deb4d549bc9
   - a62e934346f5
   - aaac3ed89508

@@ -504,6 +504,7 @@ tools:
   revisions:
   - b2569e22b40c
   - c5de6c19eb06
+  - dd28d21080f3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_filter
@@ -841,6 +842,7 @@ tools:
 - name: qcxms_production_run
   owner: recetox
   revisions:
+  - 69ba95cdcff2
   - cbe34f060712
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

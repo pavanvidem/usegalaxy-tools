@@ -71,6 +71,7 @@ tools:
   - 0dc3027df8f4
   - 305c1229ac99
   - 3814a92c1416
+  - 3b8fa4ea9727
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -478,6 +479,7 @@ tools:
   revisions:
   - 42b513bed40b
   - 4efac966af2a
+  - 602b5fb7ef09
   - 6d1a9fae57eb
   - 92e09b827300
   - 9f9cf31e3111

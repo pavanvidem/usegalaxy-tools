@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -27,6 +28,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 3061c8b029e5
   - 59db8ea8c845
   - 675488238c96
@@ -223,6 +225,7 @@ tools:
   - 8d1af5db538d
   - ad80238462c1
   - d9f6a00b6db7
+  - eb04ae2c1f21
   - ee17a294d3a3
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -440,6 +443,7 @@ tools:
   owner: iuc
   revisions:
   - 0bc216235d4c
+  - 3d1d241ceff2
   - 5412142130ad
   - 55a53b5e308d
   - 56bb29747b4d
@@ -452,6 +456,7 @@ tools:
   - 44cb74c154bc
   - 678f10bb377e
   - 963d674e438d
+  - a5876cca7b05
   - b0a1f128fa15
   - d3a7b17714c1
   tool_panel_section_id: assembly
@@ -471,6 +476,7 @@ tools:
   revisions:
   - 060f0fed864e
   - 39df08e91cdf
+  - 3b91601ad5df
   - 53d73d58e105
   - a7035be049e4
   - c46d1454f3a1
@@ -484,6 +490,7 @@ tools:
   - 81fc1418fbfb
   - ade829d2ae3a
   - c20a07c9237b
+  - f767a51f75f7
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: refseq_masher
