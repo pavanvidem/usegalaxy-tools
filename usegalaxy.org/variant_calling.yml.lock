@@ -170,6 +170,7 @@ tools:
   owner: iuc
   revisions:
   - 77fc7640abc7
+  - bf1bdb62d882
   - e6ef29001647
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -180,6 +181,7 @@ tools:
   - 51d28b4d3a04
   - 71dfde92fd57
   - 7d9166ecd10f
+  - 845a7025ba81
   - c39113e2ae34
   - ebcd8649c621
   - ee85030e893d
@@ -191,6 +193,7 @@ tools:
   revisions:
   - 2e303fcd3b0c
   - 399b40b2bcab
+  - 3c6952a2b0e4
   - 48ac4d611e92
   - abd806291372
   - b03c0b3e67a6
@@ -249,11 +252,13 @@ tools:
   owner: iuc
   revisions:
   - 4e21e4f2bc48
+  - cff5bd9c728d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: snpsift_genesets
   owner: iuc
   revisions:
+  - 60d04e5f3dcf
   - d12a810c837e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -326,6 +331,7 @@ tools:
   revisions:
   - 24271361028f
   - 7acb00fc980a
+  - a2c1c52a7e47
   - cf01dd6c6b1f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -335,5 +341,6 @@ tools:
   - 6d1f577b3e47
   - 703a2cb3fb38
   - 7a5a2d28c539
+  - 88e27e10b1ed
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

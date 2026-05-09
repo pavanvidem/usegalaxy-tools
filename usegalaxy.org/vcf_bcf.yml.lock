@@ -464,6 +464,7 @@ tools:
   - af36eb5418fe
   - bf235558f2cf
   - e0a856def0b0
+  - eed37e76acd1
   - f544f71adb73
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -473,6 +474,7 @@ tools:
   - 03191140c66a
   - 0a5dcc9a8ec2
   - 0dbff46d5a1b
+  - 43f0efd586c4
   - 56556e1267de
   - 5660b21a0dbd
   - a0c219ecb5e7

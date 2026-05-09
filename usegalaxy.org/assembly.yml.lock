@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -27,6 +28,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 3061c8b029e5
   - 59db8ea8c845
   - 675488238c96
@@ -432,6 +434,7 @@ tools:
 - name: rnaquast
   owner: iuc
   revisions:
+  - 734fbbd94307
   - 8e66f695d859
   - f73ab5187eed
   tool_panel_section_id: assembly
@@ -463,6 +466,7 @@ tools:
   - 5fd78abb0d81
   - 8cffb8fc34f0
   - 8ed44487c834
+  - cbc4a0eb290a
   - fdd073110081
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -484,6 +488,7 @@ tools:
   - 81fc1418fbfb
   - ade829d2ae3a
   - c20a07c9237b
+  - f767a51f75f7
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: refseq_masher
@@ -502,6 +507,7 @@ tools:
   owner: iuc
   revisions:
   - 8d594609538e
+  - ee4f9a0cb72a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_count_kmers
@@ -513,6 +519,7 @@ tools:
 - name: meryl_filter_kmers
   owner: iuc
   revisions:
+  - 06c0a042a61d
   - fa43288f637c
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -537,6 +544,7 @@ tools:
 - name: meryl_trio_mode
   owner: iuc
   revisions:
+  - 416dff497d49
   - 47e9001da01b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
