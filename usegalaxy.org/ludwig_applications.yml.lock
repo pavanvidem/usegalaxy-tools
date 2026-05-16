@@ -25,6 +25,7 @@ tools:
   - 488d878c1c1f
   - a930e68bdffe
   - b81fe4d92236
+  - d93e52cf97c7
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: ludwig_predict

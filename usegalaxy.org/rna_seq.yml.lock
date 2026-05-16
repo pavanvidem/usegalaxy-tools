@@ -84,6 +84,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 30d90b851d3c
   - 49121db48873
   - 7fdb9d1591e2
   - cc05793bb896
@@ -141,6 +142,7 @@ tools:
   revisions:
   - 0696db066a5b
   - 6a3a025714d3
+  - 6c363db8c702
   - 71bacea10eee
   - 8fe98f7094de
   - 9a882d108833
@@ -189,6 +191,7 @@ tools:
   - 31d5c8c3adde
   - 3c5e024a18cf
   - 3c97c841a443
+  - a3e78550e42e
   - f99dd58de04f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -254,6 +257,7 @@ tools:
   revisions:
   - d3ebbf39b1c5
   - de7795890bc5
+  - ead35c868b99
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: masigpro
@@ -476,6 +480,7 @@ tools:
   - 3f9ff31c88bb
   - 51a3b375b7b8
   - 9d93999d9028
+  - c312b506ee6f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: targetfinder
@@ -537,6 +542,7 @@ tools:
   revisions:
   - 298d81e5e138
   - b3f292d9f35d
+  - d3377a16d881
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: brew3r_r

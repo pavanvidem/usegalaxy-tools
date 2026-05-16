@@ -15,6 +15,7 @@ tools:
   - 6f5349dd5c49
   - 70fa84e99463
   - 7647e5cd1b8b
+  - 7f478b3258ec
   - 95777145cb92
   - 9a169729c9f9
   - 9b0cdb8cf6be
@@ -32,6 +33,7 @@ tools:
   - 6bd82ed14acd
   - 6c145a6868cc
   - 9d33775ec67d
+  - a8d291df615d
   - c0a80a16560f
   - c5d3684f7c4c
   - ca086f24422f
@@ -46,6 +48,7 @@ tools:
   revisions:
   - 277313130da5
   - 2d02d9702d3a
+  - 2e6029e47eb5
   - 3c86f71498bc
   - 5511647110ff
   - 5813f9920877
@@ -613,6 +616,7 @@ tools:
   revisions:
   - 883c33ef3372
   - 90e95e9ee190
+  - f66590d0d3af
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: gsc_scran_normalize
@@ -635,6 +639,7 @@ tools:
 - name: snapatac2_peaks_and_motif
   owner: iuc
   revisions:
+  - 02a7162fc510
   - 588c811fdd48
   - 64fa083411f1
   - 88192fe25375
@@ -646,6 +651,7 @@ tools:
   owner: iuc
   revisions:
   - 05bd4db20227
+  - 1ac4a5f05f33
   - 370d45e0d1a8
   - c01f0a08ab43
   - fbf62973e556
@@ -655,6 +661,7 @@ tools:
 - name: snapatac2_preprocessing
   owner: iuc
   revisions:
+  - 20c4011e1458
   - 48d9421bf176
   - 4ecdea4cbea1
   - c5c94e01a1b5
@@ -674,6 +681,7 @@ tools:
   owner: iuc
   revisions:
   - 51eb02d9b17a
+  - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
@@ -692,11 +700,13 @@ tools:
   owner: iuc
   revisions:
   - 74fa68f4e579
+  - 7c728a178c4d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot
   owner: iuc
   revisions:
+  - 6154937135c7
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

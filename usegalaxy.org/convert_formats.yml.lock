@@ -108,6 +108,7 @@ tools:
   revisions:
   - 50b7875a49d0
   - 91efc13d3ec1
+  - b1c12a94db6f
   - cdbdce00f5f6
   - ee86b27291b5
   - f4a70882a71b
@@ -165,6 +166,7 @@ tools:
   revisions:
   - 356dc923f8d3
   - 3c6f9e8a4c17
+  - 6e1aa95afa75
   - 8067dfa00ed2
   - e9bbe2f71784
   tool_panel_section_id: convert_formats
@@ -224,6 +226,7 @@ tools:
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 3cf310697624
+  - 4493fdb346f0
   - 545054b15d7c
   - 6153e8ada1ee
   - ab6c14374bc0
@@ -277,6 +280,7 @@ tools:
   revisions:
   - 31a442afee19
   - 8990ed3ff747
+  - 92c81e03341c
   - f063c97a7f8f
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

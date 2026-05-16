@@ -6,6 +6,7 @@ tools:
 - name: samtools_sort
   owner: devteam
   revisions:
+  - 2ce517eb9af2
   - 6c2c1836728b
   - a577ea614bed
   - d54a4df48867
@@ -15,6 +16,7 @@ tools:
 - name: samtools_mpileup
   owner: devteam
   revisions:
+  - 0668270db5ba
   - 9da0311ab1dd
   - b61f5d6a7f25
   - fa7ad9b89f4a
@@ -24,6 +26,7 @@ tools:
   owner: devteam
   revisions:
   - 22970df7a40e
+  - a0d8e49a018c
   - fe34990e5ce7
   - fefd89ab563c
   tool_panel_section_id: sam_bam
@@ -39,6 +42,7 @@ tools:
   owner: devteam
   revisions:
   - 10184eaa85fc
+  - 132036f92aa3
   - 3c661e57a88f
   - 88eedb4abea0
   - a53efedba9e7
@@ -47,6 +51,7 @@ tools:
 - name: samtools_idxstats
   owner: devteam
   revisions:
+  - 13aad5cb9be4
   - 7a6034296ae9
   - 7def34e6cf4d
   - fa5d3e61e429
@@ -326,6 +331,7 @@ tools:
   - 5f3ea90dc6ae
   - 6a8febad1f6c
   - a941babb9268
+  - d2f176e331ef
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: revertr2orientationinbam

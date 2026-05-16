@@ -330,6 +330,7 @@ tools:
   - 4cc834cce4fb
   - 7d28da5e9e27
   - 9058d8943303
+  - 9180d536e20d
   - a7817705348e
   - d943081510da
   - f74c56549143
@@ -637,6 +638,7 @@ tools:
   - 0b9d4ec77c4f
   - 24488fae5b04
   - 6000b8a8dd9d
+  - 6a067bbd4e16
   - 87064cb77a52
   - d1c93a32cb25
   tool_panel_section_id: metagenomic_analysis
@@ -649,6 +651,7 @@ tools:
   - 847f433f202b
   - b6a38f6222af
   - c0101c72b8af
+  - eed716573aba
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_ordination
@@ -707,6 +710,7 @@ tools:
   owner: iuc
   revisions:
   - 9916308301da
+  - bfbfffa0fd9d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_qa
@@ -783,6 +787,7 @@ tools:
   owner: iuc
   revisions:
   - 99ff9221182c
+  - afee33334a63
   - b5a7583b8db0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
