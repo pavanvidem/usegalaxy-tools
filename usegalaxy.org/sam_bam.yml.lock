@@ -15,6 +15,7 @@ tools:
 - name: samtools_mpileup
   owner: devteam
   revisions:
+  - 0668270db5ba
   - 9da0311ab1dd
   - b61f5d6a7f25
   - fa7ad9b89f4a
@@ -56,6 +57,7 @@ tools:
   owner: devteam
   revisions:
   - 0e60e2dd20af
+  - 8886b95d2956
   - 9bd1568619cd
   - b77f7b516b17
   - cf1ffd88f895
@@ -83,6 +85,7 @@ tools:
   owner: devteam
   revisions:
   - 135c85f4cfaf
+  - 3d9c6d1d0b9c
   - 818030fa6bbf
   - bcedabb53ddf
   - bd850490c7f1
@@ -188,6 +191,7 @@ tools:
   revisions:
   - 108db6635177
   - 1dfd95ee241e
+  - 47db0f26ca31
   - 4fe8a75334c8
   - 993b19f20c76
   - bd735cae4ce6
@@ -244,6 +248,7 @@ tools:
 - name: samtools_fixmate
   owner: iuc
   revisions:
+  - 2f395ebff85f
   - 41e36c99a008
   - 595ae1ba934a
   - bc0cc7bfbfe9
@@ -337,6 +342,7 @@ tools:
 - name: mosdepth
   owner: iuc
   revisions:
+  - 4413217d872c
   - 5854d0da92b4
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM

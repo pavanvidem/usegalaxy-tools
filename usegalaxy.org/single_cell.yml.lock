@@ -90,6 +90,7 @@ tools:
   - 64ff3ef24fae
   - 6acb08931836
   - 6f83f8fd381f
+  - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
@@ -145,6 +146,7 @@ tools:
   - ae1e5d9d8972
   - cfc3f5a57dc6
   - d330b3082107
+  - d9ae58b926fc
   - fb9e030ffae4
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -370,6 +372,7 @@ tools:
   revisions:
   - 31e5e6d606ef
   - 53a251c6d991
+  - 7ef2403a250d
   - 825dfd66e3fb
   - a4774b7b2e85
   tool_panel_section_id: single_cell
@@ -613,6 +616,7 @@ tools:
   revisions:
   - 883c33ef3372
   - 90e95e9ee190
+  - f66590d0d3af
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: gsc_scran_normalize
@@ -697,6 +701,7 @@ tools:
 - name: seurat_plot
   owner: iuc
   revisions:
+  - 6154937135c7
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

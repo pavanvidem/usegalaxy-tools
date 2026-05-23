@@ -443,6 +443,7 @@ tools:
   owner: bgruening
   revisions:
   - 330514267c57
+  - e1676a9f766b
   - f5d7ffbb2d33
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -539,6 +540,7 @@ tools:
   revisions:
   - 81836d586797
   - d7f0ca1f2669
+  - fc2a2989c3b1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: prepare_ligands_for_docking
@@ -841,6 +843,7 @@ tools:
 - name: qcxms_production_run
   owner: recetox
   revisions:
+  - 69ba95cdcff2
   - cbe34f060712
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

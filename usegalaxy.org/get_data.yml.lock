@@ -96,6 +96,7 @@ tools:
   owner: iuc
   revisions:
   - 7ed6dda64a81
+  - 8c6526a46319
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data
 - name: dbbuilder
@@ -114,6 +115,7 @@ tools:
 - name: fastq_dl
   owner: iuc
   revisions:
+  - 123a40edeed1
   - 3f1ee30e39e9
   - 5e7401777990
   tool_panel_section_id: get_data
