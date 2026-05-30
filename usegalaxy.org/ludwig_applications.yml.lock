@@ -33,6 +33,7 @@ tools:
   - 11b1f328f312
   - afc8ed4a1838
   - b0627acfa4f4
+  - d6606c4d0d9a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: ludwig_experiment
@@ -48,6 +49,7 @@ tools:
   revisions:
   - 56c4f4c0c6df
   - 65c50cd5aa13
+  - 93ebd9b0f159
   - d5d69c29d537
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -63,6 +65,7 @@ tools:
   revisions:
   - 11d3377511bb
   - 4bcd6c3a025e
+  - 779d91d78ecf
   - bf21ab331fe6
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning

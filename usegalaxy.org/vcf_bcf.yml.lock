@@ -261,6 +261,7 @@ tools:
   revisions:
   - 0117c6d2ab96
   - 277719af4dd7
+  - 3502f0e1f0e4
   - 46fcafba49ec
   - 5d6653c989cb
   - 656a916779fe
@@ -296,6 +297,7 @@ tools:
   - 5801eff9ac7e
   - 912a8ff07fc9
   - bf06b66ab5c2
+  - c277260d3fab
   - f0d44631365f
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -381,6 +383,7 @@ tools:
   - bf8325a07ce7
   - c636e58df612
   - ef2cc5ac23bc
+  - fcf941c241cc
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_reheader
@@ -419,6 +422,7 @@ tools:
   - 348cd212dbad
   - 7ca6120cb2a4
   - 7cea7c7bf203
+  - a20d6492132d
   - b8e9da766b0f
   - cacc9970727a
   - d58d2e8c7a57

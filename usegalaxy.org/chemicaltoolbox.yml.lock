@@ -342,6 +342,7 @@ tools:
 - name: openbabel_addh
   owner: bgruening
   revisions:
+  - 6da72bb13a05
   - 6e4b7e0c61a6
   - 7b6fd1c273cd
   tool_panel_section_id: chemicaltoolbox
@@ -350,6 +351,7 @@ tools:
   owner: bgruening
   revisions:
   - 4e3b2049a4d3
+  - 6cc6c7ef23df
   - f70b83b730ac
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -504,6 +506,7 @@ tools:
   revisions:
   - b2569e22b40c
   - c5de6c19eb06
+  - dd28d21080f3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_filter
@@ -836,11 +839,13 @@ tools:
   owner: recetox
   revisions:
   - 475bbef634d4
+  - c40784ec1fdd
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: qcxms_production_run
   owner: recetox
   revisions:
+  - 69ba95cdcff2
   - cbe34f060712
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

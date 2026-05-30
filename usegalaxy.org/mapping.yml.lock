@@ -115,6 +115,7 @@ tools:
 - name: rna_starsolo
   owner: iuc
   revisions:
+  - 002713edc2a1
   - 13022c3d3076
   - 178bdbdb6d24
   - 381a32c51141
@@ -131,6 +132,7 @@ tools:
 - name: bwa_mem2
   owner: iuc
   revisions:
+  - af91699b8d4c
   - b4a22d90cce9
   - bec6ba059ded
   - bfaa0d22c2e4
@@ -174,6 +176,7 @@ tools:
   revisions:
   - 371e4e21d5de
   - 544ea81a6914
+  - f885abcfe3a0
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: segalign
@@ -199,6 +202,7 @@ tools:
   - 43e72105f473
   - 4cd7884635c2
   - 78c4cef2b5a9
+  - 79182c2a8c80
   - a68e128cdb1a
   - aa5586d83ae3
   - d10e7502aba8
@@ -215,12 +219,14 @@ tools:
   revisions:
   - 05afdd33dac7
   - 54a6fb045aea
+  - 64d732725a73
   - ac3bae00a350
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_chainsort
   owner: iuc
   revisions:
+  - 07c87c2ab74b
   - 5815f5bd9ac8
   - c953dbade109
   - fff37ce2d95d
@@ -250,6 +256,7 @@ tools:
   owner: iuc
   revisions:
   - 128ec4c44111
+  - 5c3fa42d003f
   - 728e3b913fbe
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -257,5 +264,6 @@ tools:
   owner: iuc
   revisions:
   - 91674d4623a8
+  - 9f2d2c96a189
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping

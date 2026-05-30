@@ -579,11 +579,13 @@ tools:
   owner: genouest
   revisions:
   - c2fc4ac35199
+  - cef77c1fe708
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: omark
   owner: iuc
   revisions:
+  - 0291e0e81551
   - 6f570ba54b41
   - ceb52582a5b1
   tool_panel_section_id: annotation

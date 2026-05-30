@@ -107,6 +107,7 @@ tools:
   - a4a10c7924d1
   - b5c88b7b153e
   - b8beef827165
+  - c4325d32b1a2
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_reheader
@@ -117,6 +118,7 @@ tools:
   - bb8cfc6f6e0c
   - d7b4851d1971
   - db000c6007a0
+  - df41198e970c
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_rmdup

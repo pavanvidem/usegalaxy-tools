@@ -637,6 +637,7 @@ tools:
   - 0b9d4ec77c4f
   - 24488fae5b04
   - 6000b8a8dd9d
+  - 6a067bbd4e16
   - 87064cb77a52
   - d1c93a32cb25
   tool_panel_section_id: metagenomic_analysis
@@ -688,6 +689,7 @@ tools:
 - name: checkm_analyze
   owner: iuc
   revisions:
+  - bb45f97b9579
   - bcb8dc01f296
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -695,24 +697,28 @@ tools:
   owner: iuc
   revisions:
   - 8345d273ba82
+  - dcbbec865b86
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_lineage_set
   owner: iuc
   revisions:
   - 3693acdbf0d6
+  - e4fdb6e48445
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_plot
   owner: iuc
   revisions:
   - 9916308301da
+  - bfbfffa0fd9d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_qa
   owner: iuc
   revisions:
   - 5466420816b9
+  - 61b0b25c50cb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_taxonomy_wf
@@ -755,6 +761,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 27ac516ba719
   - 3481feabc54e
   - 5029fd9d572e
   - 738474880da8
@@ -802,12 +809,14 @@ tools:
   owner: iuc
   revisions:
   - 20ccec4a2c38
+  - 28b4b21d6aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_extract_fasta_bins
   owner: iuc
   revisions:
   - 8b1b09fcd8b7
+  - d87b60b2ed78
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: fasta_to_contig2bin

@@ -32,6 +32,7 @@ tools:
   - 6bd82ed14acd
   - 6c145a6868cc
   - 9d33775ec67d
+  - a8d291df615d
   - c0a80a16560f
   - c5d3684f7c4c
   - ca086f24422f
@@ -65,6 +66,7 @@ tools:
   owner: iuc
   revisions:
   - 146ae5d70b47
+  - 2b6498d4c8c6
   - 4766556db52c
   - 4bda4412b8c2
   - 51d945eab1e1
@@ -145,6 +147,7 @@ tools:
   - ae1e5d9d8972
   - cfc3f5a57dc6
   - d330b3082107
+  - d9ae58b926fc
   - fb9e030ffae4
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -159,6 +162,7 @@ tools:
   - 39e945f0b2c1
   - 6f0d0c784f09
   - afe044e6bc93
+  - b26b87f5a13c
   - ee98d611afc6
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -202,6 +206,7 @@ tools:
   owner: iuc
   revisions:
   - 0bff0ee0683a
+  - 14ac9a11465e
   - 49776718ae90
   - 7e014059a88d
   - a4b734cd253b
@@ -212,6 +217,7 @@ tools:
   owner: iuc
   revisions:
   - 43c146e25a43
+  - 4d69676e6af2
   - 7608d5faee41
   - 8b917923f7d4
   - b83fbc90161e
@@ -223,6 +229,7 @@ tools:
   revisions:
   - 37a47c4fd84d
   - 41f34e925bd5
+  - 53d889b0a2c9
   - be4646256624
   - c7ddb719554d
   - f3eb2291da05
@@ -234,6 +241,7 @@ tools:
   - 3478133d0f6f
   - 69018f285aa3
   - 6e90c8adf84f
+  - 9606d2385547
   - a6821f856a1e
   - c8434a623268
   tool_panel_section_id: single_cell
@@ -246,6 +254,7 @@ tools:
   - 44b935f2271b
   - 72979cac22b2
   - e93b008c637a
+  - fe9bf1aa669e
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_filter_cells
@@ -613,6 +622,7 @@ tools:
   revisions:
   - 883c33ef3372
   - 90e95e9ee190
+  - f66590d0d3af
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: gsc_scran_normalize
@@ -629,6 +639,7 @@ tools:
   - 8f8bef61fd0b
   - 94ae400dde2f
   - afb90d3485df
+  - d258720d9a42
   - d3ea0ba3d066
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -692,6 +703,7 @@ tools:
   owner: iuc
   revisions:
   - 74fa68f4e579
+  - 7c728a178c4d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot
