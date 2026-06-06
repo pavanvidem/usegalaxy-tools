@@ -90,6 +90,7 @@ tools:
   - 64ff3ef24fae
   - 6acb08931836
   - 6f83f8fd381f
+  - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
@@ -107,6 +108,7 @@ tools:
   - 458e8f43a775
   - 73ab2ac53d06
   - 80d4e2cac903
+  - 80fe16f87825
   - 974bb00b2f43
   - 9fb627495ec2
   - a39040ae0a38
@@ -646,6 +648,7 @@ tools:
   owner: iuc
   revisions:
   - 05bd4db20227
+  - 1ac4a5f05f33
   - 370d45e0d1a8
   - c01f0a08ab43
   - fbf62973e556
@@ -655,6 +658,7 @@ tools:
 - name: snapatac2_preprocessing
   owner: iuc
   revisions:
+  - 20c4011e1458
   - 48d9421bf176
   - 4ecdea4cbea1
   - c5c94e01a1b5

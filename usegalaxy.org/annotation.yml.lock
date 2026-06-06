@@ -67,6 +67,7 @@ tools:
   - 4e70d88adf2f
   - 602fb8e63aa7
   - 94170eee0ad8
+  - c5a90fa4b8dd
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -497,6 +498,7 @@ tools:
   owner: iuc
   revisions:
   - 033755194fe9
+  - 59c8717f6925
   - 73b018c57e96
   - af3c1dc1d141
   - b815ec682418
@@ -546,6 +548,7 @@ tools:
 - name: plasmidfinder
   owner: iuc
   revisions:
+  - 507d59b036c5
   - 7075b7a5441b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -597,6 +600,7 @@ tools:
 - name: staramr
   owner: iuc
   revisions:
+  - 146b508457e8
   - 59d308975e63
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
