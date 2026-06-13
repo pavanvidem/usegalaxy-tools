@@ -35,6 +35,7 @@ tools:
   - 2ff111fac1d7
   - 37b497aa133f
   - 3e1ea2facca6
+  - bf107d23242b
   - e7f19d6a9af8
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -89,6 +90,7 @@ tools:
   - 6da3972210ee
   - a6ea26c1f225
   - b4e6819b25ef
+  - b7ce99273d62
   - cf1322aeb137
   - d82648ad25a3
   tool_panel_section_id: mapping
@@ -174,6 +176,7 @@ tools:
   revisions:
   - 371e4e21d5de
   - 544ea81a6914
+  - c05177db395f
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: segalign
@@ -215,6 +218,7 @@ tools:
   revisions:
   - 05afdd33dac7
   - 54a6fb045aea
+  - ac3a3feb4cf1
   - ac3bae00a350
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping

@@ -419,6 +419,7 @@ tools:
   - 348cd212dbad
   - 7ca6120cb2a4
   - 7cea7c7bf203
+  - a20d6492132d
   - b8e9da766b0f
   - cacc9970727a
   - d58d2e8c7a57
@@ -464,6 +465,7 @@ tools:
   - af36eb5418fe
   - bf235558f2cf
   - e0a856def0b0
+  - eed37e76acd1
   - f544f71adb73
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -473,6 +475,7 @@ tools:
   - 03191140c66a
   - 0a5dcc9a8ec2
   - 0dbff46d5a1b
+  - 43f0efd586c4
   - 56556e1267de
   - 5660b21a0dbd
   - a0c219ecb5e7
@@ -572,6 +575,7 @@ tools:
   - 2b3ce2abc747
   - 4935320a59a8
   - 55c0e906c14c
+  - 68736d355615
   - 7291189e98b4
   - 7887b9d94c05
   - 8bb5efd7a3dd
