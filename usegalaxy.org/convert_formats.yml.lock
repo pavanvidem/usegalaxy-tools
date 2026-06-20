@@ -232,6 +232,7 @@ tools:
 - name: ucsc_wigtobigwig
   owner: iuc
   revisions:
+  - 0dcdef015deb
   - 98704d357ede
   - a2f83a375bf2
   - fa49730d1d4b
@@ -250,6 +251,7 @@ tools:
   revisions:
   - 65a69de1e294
   - 66617be450bd
+  - 6c56786c9d1a
   - 8d6686664021
   - a7387ce2a8ca
   - ea93df4b3df2
@@ -284,6 +286,7 @@ tools:
   owner: iuc
   revisions:
   - 3c19c84fbce2
+  - 98c227b9be71
   - a40dd4fd3096
   - d9965e143053
   tool_panel_section_id: convert_formats

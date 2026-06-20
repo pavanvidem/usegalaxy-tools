@@ -180,6 +180,7 @@ tools:
   - 51d28b4d3a04
   - 71dfde92fd57
   - 7d9166ecd10f
+  - 845a7025ba81
   - c39113e2ae34
   - ebcd8649c621
   - ee85030e893d
@@ -287,6 +288,7 @@ tools:
 - name: deepvariant
   owner: iuc
   revisions:
+  - 0a151b5f95e4
   - 63b68fe4af85
   - 918c8b94c8d8
   - 98fe794d2ec0
