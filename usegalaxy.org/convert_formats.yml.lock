@@ -232,6 +232,7 @@ tools:
 - name: ucsc_wigtobigwig
   owner: iuc
   revisions:
+  - 0dcdef015deb
   - 98704d357ede
   - a2f83a375bf2
   - fa49730d1d4b

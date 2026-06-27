@@ -158,6 +158,7 @@ tools:
   - eb1f4ba66dc6
   - fa11aa8103b2
   - fbf007713188
+  - fc1f197b33ec
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore
 - name: medaka_variant_pipeline

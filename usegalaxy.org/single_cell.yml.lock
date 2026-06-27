@@ -32,6 +32,7 @@ tools:
   - 6bd82ed14acd
   - 6c145a6868cc
   - 9d33775ec67d
+  - a8d291df615d
   - c0a80a16560f
   - c5d3684f7c4c
   - ca086f24422f
@@ -178,6 +179,7 @@ tools:
 - name: modify_loom
   owner: iuc
   revisions:
+  - 0ee9395e1eb2
   - 0f1aaff9b22d
   - 4b0adaa31c95
   - 59be31ac9dc3
@@ -232,6 +234,7 @@ tools:
   owner: iuc
   revisions:
   - 3478133d0f6f
+  - 42a08854eb66
   - 69018f285aa3
   - 6e90c8adf84f
   - a6821f856a1e
@@ -666,6 +669,7 @@ tools:
   owner: ebi-gxa
   revisions:
   - 09c833d9b03b
+  - 2557d7869e78
   - 508a93e34599
   - ef054892d47f
   tool_panel_section_id: single_cell

@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -27,6 +28,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 3061c8b029e5
   - 59db8ea8c845
   - 675488238c96
@@ -87,6 +89,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 05c394313b1c
   - 697c9156dafe
   - 9638ba70882c
@@ -375,6 +378,7 @@ tools:
   revisions:
   - 408ece2e4647
   - 75b4a2298714
+  - 8e422c873d02
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -382,6 +386,7 @@ tools:
   owner: bgruening
   revisions:
   - 0393c0415171
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -432,6 +437,7 @@ tools:
 - name: rnaquast
   owner: iuc
   revisions:
+  - 734fbbd94307
   - 8e66f695d859
   - f73ab5187eed
   tool_panel_section_id: assembly
@@ -532,6 +538,7 @@ tools:
   owner: iuc
   revisions:
   - 4ffdd07cc5b6
+  - 9c3c7a147412
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_trio_mode

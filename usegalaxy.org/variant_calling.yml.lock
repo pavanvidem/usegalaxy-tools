@@ -50,6 +50,7 @@ tools:
 - name: freebayes
   owner: devteam
   revisions:
+  - 0d8581534009
   - 156b60c1530f
   - 1e1291983bc7
   - 3e954e7125bf
@@ -180,6 +181,7 @@ tools:
   - 51d28b4d3a04
   - 71dfde92fd57
   - 7d9166ecd10f
+  - 845a7025ba81
   - c39113e2ae34
   - ebcd8649c621
   - ee85030e893d

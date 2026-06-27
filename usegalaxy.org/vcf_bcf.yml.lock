@@ -217,6 +217,7 @@ tools:
 - name: bcftools_plugin_dosage
   owner: iuc
   revisions:
+  - 0c50683a9c94
   - 283911fe7e1a
   - 2ee1392161a6
   - 5c232a738c74
@@ -403,6 +404,7 @@ tools:
   - 0c1889b0917b
   - 27e2611639a9
   - 2c53c8974cb3
+  - 42345cc2c76e
   - 6d735d8f0861
   - 75becf493cd3
   - 776ad0b21536
@@ -419,6 +421,7 @@ tools:
   - 348cd212dbad
   - 7ca6120cb2a4
   - 7cea7c7bf203
+  - a20d6492132d
   - b8e9da766b0f
   - cacc9970727a
   - d58d2e8c7a57
@@ -489,6 +492,7 @@ tools:
   - 3f6fadf8b8ff
   - 3f7900995059
   - 4813f99d81b7
+  - ade0d3c3ec1c
   - b781fa08aa3c
   - be6b217710af
   - c08a369cfd10
@@ -550,6 +554,7 @@ tools:
   - a9826db86d9a
   - dba06328556a
   - ed4ea9de1791
+  - fb631fd605e8
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_norm
@@ -557,6 +562,7 @@ tools:
   revisions:
   - 1ca7418e46ee
   - 271965b55437
+  - 5226c31ac6d3
   - 6deb4d549bc9
   - a62e934346f5
   - aaac3ed89508

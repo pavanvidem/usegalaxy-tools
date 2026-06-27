@@ -150,6 +150,7 @@ tools:
   owner: iuc
   revisions:
   - 20ab37575227
+  - 23d04eabbac5
   - 3171f7f52576
   - 3f94a2e3d513
   - 456d8ebb6a28
@@ -215,6 +216,7 @@ tools:
   revisions:
   - 05afdd33dac7
   - 54a6fb045aea
+  - ac3a3feb4cf1
   - ac3bae00a350
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
