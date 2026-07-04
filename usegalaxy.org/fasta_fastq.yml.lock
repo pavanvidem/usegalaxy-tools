@@ -258,6 +258,7 @@ tools:
   - 33794bdb7fe0
   - b63b2bfb3ea3
   - f0b18efb97f1
+  - fe86fb89562d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_trimmer_by_quality
@@ -366,6 +367,7 @@ tools:
   revisions:
   - 733ca84b21ee
   - 7521d865e770
+  - c6e3d6cf49df
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: filter_by_fasta_ids

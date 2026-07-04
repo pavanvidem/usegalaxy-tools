@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -27,6 +28,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 3061c8b029e5
   - 59db8ea8c845
   - 675488238c96
@@ -87,6 +89,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 05c394313b1c
   - 697c9156dafe
   - 9638ba70882c
@@ -368,6 +371,7 @@ tools:
   - 44c66e8d21e6
   - 6c571966cfb9
   - 7c9417381ad5
+  - c4fb391275a0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_graph
@@ -463,6 +467,7 @@ tools:
   - 5fd78abb0d81
   - 8cffb8fc34f0
   - 8ed44487c834
+  - cbc4a0eb290a
   - fdd073110081
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -471,6 +476,7 @@ tools:
   revisions:
   - 060f0fed864e
   - 39df08e91cdf
+  - 3b91601ad5df
   - 53d73d58e105
   - a7035be049e4
   - c46d1454f3a1
@@ -484,6 +490,7 @@ tools:
   - 81fc1418fbfb
   - ade829d2ae3a
   - c20a07c9237b
+  - f767a51f75f7
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: refseq_masher
@@ -526,6 +533,7 @@ tools:
   owner: iuc
   revisions:
   - 9a0227fa7521
+  - fa86bf923473
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_print

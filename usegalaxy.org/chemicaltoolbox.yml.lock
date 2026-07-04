@@ -70,6 +70,7 @@ tools:
   revisions:
   - 4242b4d68e9c
   - b59c91adeac1
+  - ddbfae6646f9
   - e2c36f62e22f
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -342,6 +343,7 @@ tools:
 - name: openbabel_addh
   owner: bgruening
   revisions:
+  - 6da72bb13a05
   - 6e4b7e0c61a6
   - 7b6fd1c273cd
   tool_panel_section_id: chemicaltoolbox
@@ -443,6 +445,7 @@ tools:
   owner: bgruening
   revisions:
   - 330514267c57
+  - e1676a9f766b
   - f5d7ffbb2d33
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -504,6 +507,7 @@ tools:
   revisions:
   - b2569e22b40c
   - c5de6c19eb06
+  - dd28d21080f3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_filter
@@ -539,6 +543,7 @@ tools:
   revisions:
   - 81836d586797
   - d7f0ca1f2669
+  - fc2a2989c3b1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: prepare_ligands_for_docking
@@ -565,6 +570,7 @@ tools:
   revisions:
   - 2c5c7da26e08
   - 8302ab092300
+  - d5ad79cfa0ae
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: rdock_rbcavity
@@ -848,5 +854,6 @@ tools:
   owner: recetox
   revisions:
   - 0109f244d25a
+  - 720958b09af4
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

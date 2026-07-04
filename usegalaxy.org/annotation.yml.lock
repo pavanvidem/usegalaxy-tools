@@ -27,6 +27,7 @@ tools:
   - 09855551d713
   - 0fc0f9cf035a
   - 28433faa6e42
+  - 534814b64234
   - bd0e53f3a891
   - ca6d970d931c
   tool_panel_section_id: annotation
@@ -276,6 +277,7 @@ tools:
   - 2c68b0c38785
   - 4839e590cb26
   - 51dd22484644
+  - 60a1dad331ec
   - 809dfc93d593
   - 8cb134b8c1a5
   - ac8250086ac3
@@ -497,6 +499,7 @@ tools:
   owner: iuc
   revisions:
   - 033755194fe9
+  - 59c8717f6925
   - 73b018c57e96
   - af3c1dc1d141
   - b815ec682418
@@ -515,6 +518,7 @@ tools:
   revisions:
   - 438287deae4b
   - aeb4c76d007b
+  - e64445f727cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot
@@ -527,6 +531,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
@@ -535,6 +540,7 @@ tools:
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
+  - f421fd0c42ea
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: isescan

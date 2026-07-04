@@ -32,6 +32,7 @@ tools:
   owner: iuc
   revisions:
   - 2318841ec191
+  - 3629cc0115ac
   - 68cd2d8e3840
   - 91cf1290ba6f
   - a88848771d2d
@@ -312,6 +313,7 @@ tools:
   - b0b16acfcbe3
   - b82429e9c6a9
   - d6f4ff2aed07
+  - e46726cd0c9e
   - ec499ddce7a9
   tool_panel_section_id: hyphy
   tool_panel_section_label: HyPhy
@@ -321,6 +323,7 @@ tools:
   - 00b4cf477625
   - 051642420aec
   - 056a5b14721d
+  - 07774580b606
   - 1527f00ddf7f
   - 188452adcaa0
   - 23b9bd244670

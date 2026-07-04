@@ -8,6 +8,7 @@ tools:
   revisions:
   - 009b18a75dc3
   - 02f7746e7772
+  - 4aa511539199
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: pycaret_predict
@@ -301,6 +302,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 15bcf1a7543b
   - 55703205546f
@@ -478,6 +480,7 @@ tools:
   revisions:
   - 42b513bed40b
   - 4efac966af2a
+  - 602b5fb7ef09
   - 6d1a9fae57eb
   - 92e09b827300
   - 9f9cf31e3111
