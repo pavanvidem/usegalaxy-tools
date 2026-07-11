@@ -217,6 +217,7 @@ tools:
 - name: bcftools_plugin_dosage
   owner: iuc
   revisions:
+  - 0c50683a9c94
   - 283911fe7e1a
   - 2ee1392161a6
   - 5c232a738c74
@@ -278,6 +279,7 @@ tools:
   - 1a2ef636f48e
   - 1d1762860d7e
   - 23680a42e149
+  - 2a7d7ee53975
   - 59fa8742285e
   - 98d5499ead46
   - abc3ced31cd1
@@ -324,6 +326,7 @@ tools:
   - af163c712539
   - b84fda8ebef0
   - b931e65638b8
+  - d3286f971e89
   - e03f2f3ac3a9
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -381,6 +384,7 @@ tools:
   - bf8325a07ce7
   - c636e58df612
   - ef2cc5ac23bc
+  - fcf941c241cc
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_reheader
@@ -392,6 +396,7 @@ tools:
   - 8057cf55fa41
   - 982bc0e518c8
   - 9ef52d95114b
+  - a0b1c0bdfa5a
   - b3b3c060962e
   - d453025d7e5d
   - d68c43202172
@@ -403,6 +408,7 @@ tools:
   - 0c1889b0917b
   - 27e2611639a9
   - 2c53c8974cb3
+  - 42345cc2c76e
   - 6d735d8f0861
   - 75becf493cd3
   - 776ad0b21536
@@ -591,6 +597,7 @@ tools:
   - ceb03be4f31b
   - d9f9294ccccc
   - dd72ff87cfd0
+  - f203ea355bc8
   - f4c8b2e8a808
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -602,6 +609,7 @@ tools:
   - 39810174657a
   - 3eac729e66c9
   - 672b6c02fbc7
+  - 68d04cd5d35a
   - 7b4454382d39
   - 91c1e57d5c7f
   - 9243f0e24906

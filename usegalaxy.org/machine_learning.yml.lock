@@ -8,6 +8,7 @@ tools:
   revisions:
   - 009b18a75dc3
   - 02f7746e7772
+  - 4aa511539199
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: pycaret_predict
@@ -15,6 +16,7 @@ tools:
   revisions:
   - 0314dad38aaa
   - 4a7df9abe4c4
+  - 7422e87df409
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: model_prediction
@@ -30,12 +32,14 @@ tools:
   - 980bf31faa05
   - 9991c4ddde14
   - b237f27a8afc
+  - b6c2289292fa
   - ce00f1cccb03
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_config
   owner: bgruening
   revisions:
+  - 00d1889e9ecc
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -62,6 +66,7 @@ tools:
   - 9b6faa256f15
   - c51571d0a0b1
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_batch_models
@@ -145,6 +150,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 6d23883e0b94
   - 73d2ef652879
   - 80852884053f
@@ -185,6 +191,7 @@ tools:
   - d37a7f17e35d
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_build_pipeline
@@ -301,6 +308,7 @@ tools:
 - name: sklearn_clf_metrics
   owner: bgruening
   revisions:
+  - 048d7bd59326
   - 0ee984c1cbd6
   - 15bcf1a7543b
   - 55703205546f

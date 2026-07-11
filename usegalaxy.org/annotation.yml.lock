@@ -9,6 +9,7 @@ tools:
   - 111884f0d912
   - 8a22554cdde2
   - bf68eb663bc3
+  - c105b66eaab1
   - eaee459f3d69
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -387,6 +388,7 @@ tools:
   owner: iuc
   revisions:
   - 53b22b7dff19
+  - 945b31d82638
   - c0a0e79d7196
   - c5f2ce99da69
   - e7a2086a0f03
@@ -540,12 +542,14 @@ tools:
 - name: isescan
   owner: iuc
   revisions:
+  - 81539b9ae80a
   - 9e776e7fab4f
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: plasmidfinder
   owner: iuc
   revisions:
+  - 507d59b036c5
   - 7075b7a5441b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
