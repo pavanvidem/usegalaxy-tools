@@ -5,6 +5,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 545054b15d7c
@@ -79,6 +80,7 @@ tools:
   - 07cac38cbd29
   - 357df6c47d92
   - 83c4b4359ac4
+  - a26afcf352fd
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: matchms_formatter
@@ -167,6 +169,7 @@ tools:
 - name: intensity_checks
   owner: melpetera
   revisions:
+  - 2e580585782e
   - a31f3f802b2b
   - ec75de7f1e08
   tool_panel_section_id: metabolomics
