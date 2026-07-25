@@ -65,6 +65,7 @@ tools:
   owner: iuc
   revisions:
   - 146ae5d70b47
+  - 2b6498d4c8c6
   - 4766556db52c
   - 4bda4412b8c2
   - 51d945eab1e1
@@ -129,6 +130,7 @@ tools:
   - c0b037b12765
   - c5ac926c838f
   - cfaf5a405371
+  - d99a178d1ab5
   - e1c3c2f2a834
   - f843b9afd94e
   tool_panel_section_id: single_cell
@@ -159,6 +161,7 @@ tools:
   - 39e945f0b2c1
   - 6f0d0c784f09
   - afe044e6bc93
+  - b26b87f5a13c
   - ee98d611afc6
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -221,6 +224,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 37a47c4fd84d
   - 41f34e925bd5
   - be4646256624
@@ -692,6 +696,7 @@ tools:
   owner: iuc
   revisions:
   - 74fa68f4e579
+  - 7c728a178c4d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot

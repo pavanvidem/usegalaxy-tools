@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -27,6 +28,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 3061c8b029e5
   - 59db8ea8c845
   - 675488238c96
@@ -194,6 +196,7 @@ tools:
   - 340bc17f49cf
   - 388dbecbf03b
   - 5be72b7648fa
+  - 6fb81bb0fe3e
   - 75405f5e2cc5
   - 7bb235ff0746
   - 85fb02c43042
@@ -210,6 +213,7 @@ tools:
   - 6766a94ef559
   - 7922870efcca
   - 9de69775f512
+  - c4ba6aa27088
   - e060c3987513
   - ea83ac535a1f
   - ed32d95f436a
@@ -243,6 +247,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -354,6 +359,7 @@ tools:
   - 02831bf9e95f
   - 2b16ba799da9
   - 511e5e3cd55e
+  - 7087d9a23185
   - 79b48f02db49
   - 8fef980d48b5
   - c6cec5ab35c1
@@ -382,6 +388,7 @@ tools:
   owner: bgruening
   revisions:
   - 0393c0415171
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -440,6 +447,7 @@ tools:
   owner: iuc
   revisions:
   - 0bc216235d4c
+  - 3d1d241ceff2
   - 5412142130ad
   - 55a53b5e308d
   - 56bb29747b4d

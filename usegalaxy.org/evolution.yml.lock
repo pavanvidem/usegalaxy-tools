@@ -48,6 +48,7 @@ tools:
 - name: tn93_filter
   owner: iuc
   revisions:
+  - 1779a96f1d7c
   - 1aa73004ba9b
   - ba95715078c9
   - cf50aeb956f2
@@ -58,6 +59,7 @@ tools:
   revisions:
   - 112d80c9ccca
   - af03f3398f03
+  - e0448bc48085
   - eb6f0ec5b95e
   tool_panel_section_id: evolution
   tool_panel_section_label: Evolution
