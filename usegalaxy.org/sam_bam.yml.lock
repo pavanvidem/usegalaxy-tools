@@ -107,6 +107,7 @@ tools:
   - a4a10c7924d1
   - b5c88b7b153e
   - b8beef827165
+  - c4325d32b1a2
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_reheader
@@ -326,6 +327,7 @@ tools:
   - 5f3ea90dc6ae
   - 6a8febad1f6c
   - a941babb9268
+  - d2f176e331ef
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: revertr2orientationinbam

@@ -11,12 +11,14 @@ tools:
   - 767943cd85bf
   - 7ecb45126cd2
   - b226e0c805a5
+  - f287fbd75138
   - f5792425ea50
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: bbgbigwig
   owner: iuc
   revisions:
+  - 2d24e59a351a
   - b95435276746
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -72,6 +74,7 @@ tools:
   revisions:
   - 297962e79f39
   - 4844c1810c16
+  - 4a3e93647a4e
   - a64c24430f5e
   - ac3fed111eb6
   tool_panel_section_id: convert_formats
@@ -99,6 +102,7 @@ tools:
   - 158b5b2a164a
   - 60ca8d013263
   - 6ee334657360
+  - 908df9a9f86b
   - e13f565068d6
   - e5340c09200a
   tool_panel_section_id: convert_formats
@@ -108,6 +112,7 @@ tools:
   revisions:
   - 50b7875a49d0
   - 91efc13d3ec1
+  - b1c12a94db6f
   - cdbdce00f5f6
   - ee86b27291b5
   - f4a70882a71b
@@ -118,6 +123,7 @@ tools:
   revisions:
   - 282a658c6569
   - 5f893ed3c5ed
+  - 754f70dd85ae
   - e72c320c17c1
   - e8d84292e510
   - f7229c8445da
@@ -132,6 +138,7 @@ tools:
   - 97979c3d179f
   - b21851ddcc79
   - d4965adac10c
+  - d8649c4e4c3a
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_gff
@@ -250,6 +257,7 @@ tools:
   revisions:
   - 65a69de1e294
   - 66617be450bd
+  - 6c56786c9d1a
   - 8d6686664021
   - a7387ce2a8ca
   - ea93df4b3df2
