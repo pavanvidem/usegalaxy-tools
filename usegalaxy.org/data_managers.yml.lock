@@ -14,6 +14,7 @@ tools:
   owner: devteam
   revisions:
   - 39865c64a4e1
+  - 6754002631cd
   - 9dd107db92c2
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -21,6 +22,7 @@ tools:
   owner: devteam
   revisions:
   - 0a87b85d9911
+  - 966d4de7bf2d
   - 9e993022c762
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -130,6 +132,7 @@ tools:
   - 19ef193d1316
   - 23511530b8fd
   - 4cd97cc67061
+  - c25818208c77
   - dbf2735e8480
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers

@@ -62,6 +62,7 @@ tools:
   revisions:
   - 37125838e360
   - 40fee49bc6c3
+  - 90d52ca89318
   - c4ed35f4f77f
   - f881c94fb3b3
   tool_panel_section_id: hicexplorer
@@ -89,6 +90,7 @@ tools:
   revisions:
   - 37125838e360
   - 40fee49bc6c3
+  - 90d52ca89318
   - c4ed35f4f77f
   - f881c94fb3b3
   tool_panel_section_id: hicexplorer
@@ -116,6 +118,7 @@ tools:
   revisions:
   - 30677e95bc89
   - 63c8377c58b3
+  - 9c004f11ebe4
   - b05f662f9f35
   - f0216498a666
   tool_panel_section_id: hicexplorer
@@ -144,6 +147,7 @@ tools:
   - 3ee5332bf57c
   - 4f9305d3bb34
   - 5dd1aae12f03
+  - 6f078762ff7f
   - e03780179ee5
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -204,6 +208,7 @@ tools:
 - name: hicexplorer_hicfindrestrictionsites
   owner: bgruening
   revisions:
+  - 430acc59e883
   - 6c5097f6d41e
   - 972dcccb5bbc
   - f0b1bd38745a
@@ -216,6 +221,7 @@ tools:
   - 11de0d28ab30
   - 478aacfbaa37
   - 755df866ad0c
+  - 7b9fa42ca59c
   - ec4b948dc6f0
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -244,6 +250,7 @@ tools:
   - 55b013e59018
   - 908fa330b93b
   - c261b6b05ee3
+  - eddb1f249f6c
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicmergedomains
@@ -339,6 +346,7 @@ tools:
 - name: hicexplorer_hicquickqc
   owner: bgruening
   revisions:
+  - 0a134c0bdb39
   - 21d859ad4502
   - 5cbd7a902a8d
   - b13e7a200525
@@ -400,6 +408,7 @@ tools:
   owner: iuc
   revisions:
   - 54b6cef88a7f
+  - 97569c103d58
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicclusterminhash
@@ -411,6 +420,7 @@ tools:
 - name: schicexplorer_schicclustersvl
   owner: iuc
   revisions:
+  - e327fe59be69
   - e6ec3914a076
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -472,6 +482,7 @@ tools:
   owner: iuc
   revisions:
   - 95b1216e1e70
+  - b1f0a9b02efd
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schicqualitycontrol

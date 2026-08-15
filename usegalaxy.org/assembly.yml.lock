@@ -317,6 +317,7 @@ tools:
   owner: iuc
   revisions:
   - 01210c4e9144
+  - 0bace381c9fd
   - 3169a38c2656
   - 460fad600dce
   - b2f674562a18
@@ -403,6 +404,7 @@ tools:
   revisions:
   - 39495e107274
   - 425e63adcc5d
+  - 6756b34312cd
   - d87433f2a54d
   - fc925f53cae7
   - ff4031bfaa22
@@ -463,6 +465,7 @@ tools:
   - 5fd78abb0d81
   - 8cffb8fc34f0
   - 8ed44487c834
+  - cbc4a0eb290a
   - fdd073110081
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -502,6 +505,7 @@ tools:
   owner: iuc
   revisions:
   - 8d594609538e
+  - ee4f9a0cb72a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_count_kmers
