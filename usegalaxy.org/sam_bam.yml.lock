@@ -6,6 +6,7 @@ tools:
 - name: samtools_sort
   owner: devteam
   revisions:
+  - 2ce517eb9af2
   - 6c2c1836728b
   - a577ea614bed
   - d54a4df48867
@@ -15,6 +16,7 @@ tools:
 - name: samtools_mpileup
   owner: devteam
   revisions:
+  - 0668270db5ba
   - 9da0311ab1dd
   - b61f5d6a7f25
   - fa7ad9b89f4a
@@ -24,6 +26,7 @@ tools:
   owner: devteam
   revisions:
   - 22970df7a40e
+  - a0d8e49a018c
   - fe34990e5ce7
   - fefd89ab563c
   tool_panel_section_id: sam_bam
@@ -39,6 +42,7 @@ tools:
   owner: devteam
   revisions:
   - 10184eaa85fc
+  - 132036f92aa3
   - 3c661e57a88f
   - 88eedb4abea0
   - a53efedba9e7
@@ -47,6 +51,7 @@ tools:
 - name: samtools_idxstats
   owner: devteam
   revisions:
+  - 13aad5cb9be4
   - 7a6034296ae9
   - 7def34e6cf4d
   - fa5d3e61e429
@@ -56,6 +61,7 @@ tools:
   owner: devteam
   revisions:
   - 0e60e2dd20af
+  - 8886b95d2956
   - 9bd1568619cd
   - b77f7b516b17
   - cf1ffd88f895
@@ -65,6 +71,7 @@ tools:
   owner: devteam
   revisions:
   - 06dc50b7b711
+  - 26a85f18dc69
   - 26b4f9f98aca
   - 3d873744df7e
   - 92ec40abcdcf
@@ -77,12 +84,14 @@ tools:
   - 46c6639921f1
   - 6856f8a01905
   - 9149ad20699a
+  - cc01c0658f6c
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_split
   owner: devteam
   revisions:
   - 135c85f4cfaf
+  - 3d9c6d1d0b9c
   - 818030fa6bbf
   - bcedabb53ddf
   - bd850490c7f1
@@ -97,6 +106,7 @@ tools:
   - 3a0efe14891f
   - 47035d167365
   - 541082d03bef
+  - 8fca6e1eac98
   - fed4aa48ba09
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
@@ -107,11 +117,13 @@ tools:
   - a4a10c7924d1
   - b5c88b7b153e
   - b8beef827165
+  - c4325d32b1a2
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_reheader
   owner: devteam
   revisions:
+  - 2b901d1b7aef
   - 30388d878f81
   - 85e38b31e8b3
   - bb8cfc6f6e0c
@@ -234,6 +246,7 @@ tools:
 - name: samtools_fastx
   owner: iuc
   revisions:
+  - 4bde991b8037
   - 66e23b11feae
   - 720217c23995
   - a8d69aee190e
@@ -244,6 +257,7 @@ tools:
 - name: samtools_fixmate
   owner: iuc
   revisions:
+  - 2f395ebff85f
   - 41e36c99a008
   - 595ae1ba934a
   - bc0cc7bfbfe9
@@ -259,6 +273,7 @@ tools:
   - 887e02a45734
   - a312a0fdaf31
   - a389f74c3630
+  - a50321bc1a90
   - b5527cc104ab
   - ce32171c6d44
   - d0a568e1904b
