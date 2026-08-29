@@ -17,5 +17,6 @@ tools:
   owner: enis
   revisions:
   - 8f95c3031339
+  - bc496c2564a4
   tool_panel_section_id: interactive_tools
   tool_panel_section_label: Interactive Tools
