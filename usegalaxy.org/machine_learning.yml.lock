@@ -8,6 +8,7 @@ tools:
   revisions:
   - 009b18a75dc3
   - 02f7746e7772
+  - 4aa511539199
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: pycaret_predict
@@ -15,6 +16,7 @@ tools:
   revisions:
   - 0314dad38aaa
   - 4a7df9abe4c4
+  - 7363de120cc2
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: model_prediction
@@ -36,6 +38,7 @@ tools:
 - name: keras_model_config
   owner: bgruening
   revisions:
+  - 00d1889e9ecc
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -160,6 +163,7 @@ tools:
   revisions:
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - ab2c393080f9
@@ -193,6 +197,7 @@ tools:
   - 0c74d3164ac8
   - 118e230e85ce
   - 3f25f37ee3db
+  - 43a859a0fab5
   - 4c4ec859c31a
   - 7388ffedf12c
   - 7442b94d6a1e
@@ -238,6 +243,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 2d7c60aa6c62
   - 73e7f1c76ece
@@ -273,6 +279,7 @@ tools:
   - 4483b84310ec
   - 5276bdb49315
   - 5773e98921fc
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e

@@ -24,6 +24,7 @@ tools:
 - name: hicexplorer_chicexportdata
   owner: bgruening
   revisions:
+  - 0671a38a29d5
   - 163fd744e235
   - 1a31e75e979e
   - 23b8d6b8960c
@@ -116,6 +117,7 @@ tools:
   revisions:
   - 30677e95bc89
   - 63c8377c58b3
+  - 9c004f11ebe4
   - b05f662f9f35
   - f0216498a666
   tool_panel_section_id: hicexplorer
@@ -144,6 +146,7 @@ tools:
   - 3ee5332bf57c
   - 4f9305d3bb34
   - 5dd1aae12f03
+  - 6f078762ff7f
   - e03780179ee5
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -152,6 +155,7 @@ tools:
   revisions:
   - 3a6a5381db36
   - 4401ed529d2c
+  - 4630448a0d88
   - 87eb9c58cd19
   - a315574104c6
   tool_panel_section_id: hicexplorer
@@ -159,6 +163,7 @@ tools:
 - name: hicexplorer_hicconvertformat
   owner: bgruening
   revisions:
+  - 0d0c6092cc43
   - 2ba6cee8e4db
   - 574f295b5ba4
   - a83732c79949
@@ -232,6 +237,7 @@ tools:
   owner: bgruening
   revisions:
   - 51e40e9b6c3c
+  - 58293f858e2d
   - 7fbd6feba1ca
   - b0f33533181d
   - e4f8fceab96a
@@ -244,6 +250,7 @@ tools:
   - 55b013e59018
   - 908fa330b93b
   - c261b6b05ee3
+  - eddb1f249f6c
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicmergedomains
@@ -252,6 +259,7 @@ tools:
   - 4b194e675916
   - b376ef118807
   - b6b8c8672756
+  - ee33791e32dc
   - febfddb0b3e8
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -325,6 +333,7 @@ tools:
   - 337705015ee8
   - b4e780e93c91
   - beb5b5917d2f
+  - ff9f5d335041
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicplotviewpoint
@@ -371,6 +380,7 @@ tools:
   revisions:
   - 1de2276f633f
   - 27fe5cd1729c
+  - a4b4bb07ed14
   - df64cc4dfb4d
   - f36828ebdc54
   tool_panel_section_id: hicexplorer
@@ -418,6 +428,7 @@ tools:
   owner: iuc
   revisions:
   - 33b1c99cc709
+  - 38ece0c4e316
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schiccorrectmatrices
@@ -435,6 +446,7 @@ tools:
 - name: schicexplorer_schicdemultiplex
   owner: iuc
   revisions:
+  - a49faacc7c1f
   - f224fc9af1d3
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer

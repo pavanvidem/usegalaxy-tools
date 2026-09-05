@@ -232,6 +232,7 @@ tools:
   owner: iuc
   revisions:
   - 3478133d0f6f
+  - 42a08854eb66
   - 69018f285aa3
   - 6e90c8adf84f
   - a6821f856a1e
@@ -666,6 +667,7 @@ tools:
   owner: ebi-gxa
   revisions:
   - 09c833d9b03b
+  - 2557d7869e78
   - 508a93e34599
   - ef054892d47f
   tool_panel_section_id: single_cell
@@ -674,6 +676,7 @@ tools:
   owner: iuc
   revisions:
   - 51eb02d9b17a
+  - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
@@ -686,6 +689,7 @@ tools:
   owner: iuc
   revisions:
   - 4ec52a83ec82
+  - f04c81e68e86
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_integrate
