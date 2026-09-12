@@ -318,6 +318,7 @@ tools:
   owner: bgruening
   revisions:
   - 9adf3fae2771
+  - abf3ff7ff5e7
   - c19608db6b15
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -342,6 +343,7 @@ tools:
 - name: openbabel_addh
   owner: bgruening
   revisions:
+  - 6da72bb13a05
   - 6e4b7e0c61a6
   - 7b6fd1c273cd
   tool_panel_section_id: chemicaltoolbox
@@ -504,11 +506,13 @@ tools:
   revisions:
   - b2569e22b40c
   - c5de6c19eb06
+  - dd28d21080f3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_filter
   owner: bgruening
   revisions:
+  - 30a4b898e306
   - 988085c7a0ea
   - df4dc55197dd
   tool_panel_section_id: chemicaltoolbox
@@ -545,6 +549,7 @@ tools:
   owner: bgruening
   revisions:
   - 5486f7a2b0cb
+  - d9d5aa013bb4
   - fac2c28b4c55
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -565,6 +570,7 @@ tools:
   revisions:
   - 2c5c7da26e08
   - 8302ab092300
+  - d5ad79cfa0ae
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: rdock_rbcavity
@@ -786,6 +792,7 @@ tools:
 - name: confab
   owner: bgruening
   revisions:
+  - 1c82b51f7939
   - 461f64330945
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -836,11 +843,13 @@ tools:
   owner: recetox
   revisions:
   - 475bbef634d4
+  - c40784ec1fdd
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: qcxms_production_run
   owner: recetox
   revisions:
+  - 69ba95cdcff2
   - cbe34f060712
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

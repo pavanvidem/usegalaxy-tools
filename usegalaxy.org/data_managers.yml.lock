@@ -14,6 +14,7 @@ tools:
   owner: devteam
   revisions:
   - 39865c64a4e1
+  - 6754002631cd
   - 9dd107db92c2
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -68,6 +69,7 @@ tools:
   revisions:
   - 39a922d01b0d
   - 9c91b5015dd3
+  - b3f54bd230de
   - cb157f55b4fd
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -81,6 +83,7 @@ tools:
 - name: data_manager_snpeff
   owner: iuc
   revisions:
+  - c3cdca7f40a2
   - def511e8e005
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -111,6 +114,7 @@ tools:
   - 1e34d2e3d285
   - 201eff2131d6
   - 539b008cfe1c
+  - 8367be242f35
   - 8c533e19b697
   - 90b4d4f0a3a4
   - e4b4837f06f5
@@ -120,6 +124,7 @@ tools:
 - name: data_manager_build_bracken_database
   owner: iuc
   revisions:
+  - 174a754bd3b6
   - 5c8a23ccb14a
   - 84cc0dc92b0c
   tool_panel_section_id: data_managers
