@@ -31,6 +31,7 @@ tools:
   - de6cebe3c043
   - e4691e1589d3
   - f5fdf41c08b8
+  - f6168dd17f82
   - fe74900d6dc7
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -47,6 +48,7 @@ tools:
   - 10678d49d39e
   - 1d8fe9bc4cb0
   - 25c59c0ceb55
+  - 36be11c58dac
   - 65b93b623c77
   - a626e8c0e1ba
   - c59d48774d03
@@ -137,6 +139,7 @@ tools:
   owner: devteam
   revisions:
   - 09a2199cd356
+  - 115f6bb3ae79
   - 822cc1e6274e
   - 8d958759cf2a
   - c885369b207b
@@ -191,12 +194,14 @@ tools:
   - 4ac14b275aca
   - 5b87038565bb
   - 7861f3b10c68
+  - e06d41f3ed3e
   - e30352e889fe
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_groomer
   owner: devteam
   revisions:
+  - 10d4df6a9d94
   - 47e5dbc3e790
   - 71e5fa25b8a2
   - 8611b80a14d6
@@ -320,6 +325,7 @@ tools:
 - name: filtlong
   owner: iuc
   revisions:
+  - 0d9cd7b02f14
   - 1f296803dfa3
   - 41b2ad601cf0
   - 8880fb74ef56

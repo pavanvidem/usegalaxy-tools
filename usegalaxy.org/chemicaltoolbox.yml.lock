@@ -525,6 +525,7 @@ tools:
   revisions:
   - 50eaae9df8d3
   - b249bf9be0d1
+  - f620af05e524
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_obgrep
@@ -545,6 +546,7 @@ tools:
   owner: bgruening
   revisions:
   - 5486f7a2b0cb
+  - d9d5aa013bb4
   - fac2c28b4c55
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -836,6 +838,7 @@ tools:
   owner: recetox
   revisions:
   - 475bbef634d4
+  - c40784ec1fdd
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: qcxms_production_run

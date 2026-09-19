@@ -8,6 +8,7 @@ tools:
   revisions:
   - 009b18a75dc3
   - 02f7746e7772
+  - 4aa511539199
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: pycaret_predict
@@ -15,6 +16,7 @@ tools:
   revisions:
   - 0314dad38aaa
   - 4a7df9abe4c4
+  - 7363de120cc2
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: model_prediction
@@ -59,6 +61,7 @@ tools:
   - 5b35833076f0
   - 66d7efc06000
   - 772e0e89fc68
+  - 84697f4f6353
   - 9b6faa256f15
   - c51571d0a0b1
   - f7ecdde4b201
@@ -68,6 +71,7 @@ tools:
   owner: bgruening
   revisions:
   - 03533fa14e77
+  - 0b2a2554f946
   - 0dc3027df8f4
   - 305c1229ac99
   - 3814a92c1416
@@ -293,6 +297,7 @@ tools:
   - 761269451e98
   - 80074b842ebd
   - 826c3e68e7a9
+  - a432f7a41307
   - a5c2ce4ea328
   - add3c3a7c2b4
   - eb9da067ab26
@@ -303,6 +308,7 @@ tools:
   revisions:
   - 0ee984c1cbd6
   - 15bcf1a7543b
+  - 4cae0397fcdb
   - 55703205546f
   - 6ffedbe712c0
   - 80ca74b1cb36
@@ -368,6 +374,7 @@ tools:
   - 17999807dc1b
   - 1c25f305db70
   - 734c66aa945a
+  - 79bfceddc2c4
   - 8e447b95e6a8
   - adb084b901cc
   - f0ede473a7e8
@@ -418,6 +425,7 @@ tools:
   - 61634a87efc7
   - a4f18bbb4eca
   - caeb57858702
+  - de48a91cec04
   - f93f0cdbaf18
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -439,6 +447,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 029d8b61da32
   - 27f8bd20a936
   - 3045d322d4ac
   - 74f96ebc5554

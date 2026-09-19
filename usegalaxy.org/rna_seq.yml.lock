@@ -84,6 +84,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 29e12b90949d
   - 49121db48873
   - 7fdb9d1591e2
   - cc05793bb896
