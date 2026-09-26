@@ -14,6 +14,7 @@ tools:
   owner: imgteam
   revisions:
   - 77f7159d775a
+  - 99e0ef91ea5e
   - b1c2c210813c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -61,6 +62,7 @@ tools:
   owner: goeckslab
   revisions:
   - 068da7f7cd83
+  - cab38f254824
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: scimap_mcmicro_to_anndata
