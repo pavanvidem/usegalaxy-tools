@@ -40,6 +40,7 @@ tools:
   owner: iuc
   revisions:
   - 2fd21f5b16bc
+  - 4ac97ae01aba
   - 9d793e88e15f
   - b38f620a3628
   - ccebde0e2d61
@@ -57,6 +58,7 @@ tools:
   owner: iuc
   revisions:
   - 112d80c9ccca
+  - 9b04e4d36b82
   - af03f3398f03
   - eb6f0ec5b95e
   tool_panel_section_id: evolution
@@ -65,6 +67,7 @@ tools:
   owner: iuc
   revisions:
   - 1d2ec0b0a0a7
+  - 767905ef0314
   - 84849140a3bc
   - bdaadfd0c843
   - c176164dc8a5

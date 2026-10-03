@@ -114,6 +114,7 @@ tools:
 - name: heatmap
   owner: ethevenot
   revisions:
+  - a17fd6d6ef90
   - b1667c118127
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
@@ -139,6 +140,7 @@ tools:
   owner: imgteam
   revisions:
   - 02aa2873e67d
+  - a7a21b7ac7b4
   - b0503eec7bd6
   tool_panel_section_id: statistics
   tool_panel_section_label: Statistics
