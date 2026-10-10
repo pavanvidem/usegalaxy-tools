@@ -191,6 +191,7 @@ tools:
   revisions:
   - 2e303fcd3b0c
   - 399b40b2bcab
+  - 4517996e7c99
   - 48ac4d611e92
   - abd806291372
   - b03c0b3e67a6
@@ -213,6 +214,7 @@ tools:
   - 287c4af133e6
   - 3be27a9a7313
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   - fd2d6e035c3f
   tool_panel_section_id: variant_calling
@@ -326,6 +328,7 @@ tools:
   revisions:
   - 24271361028f
   - 7acb00fc980a
+  - 83b6fef5e509
   - cf01dd6c6b1f
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling

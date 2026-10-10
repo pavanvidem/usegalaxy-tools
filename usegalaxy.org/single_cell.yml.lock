@@ -157,6 +157,7 @@ tools:
   - 33c0081e16c6
   - 383dcb0500f9
   - 39e945f0b2c1
+  - 3a9aee9e3551
   - 6f0d0c784f09
   - afe044e6bc93
   - ee98d611afc6
@@ -221,6 +222,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 22c726451b40
   - 37a47c4fd84d
   - 41f34e925bd5
   - be4646256624
@@ -666,6 +668,7 @@ tools:
   owner: ebi-gxa
   revisions:
   - 09c833d9b03b
+  - 2557d7869e78
   - 508a93e34599
   - ef054892d47f
   tool_panel_section_id: single_cell
@@ -674,6 +677,7 @@ tools:
   owner: iuc
   revisions:
   - 51eb02d9b17a
+  - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
@@ -710,5 +714,6 @@ tools:
   owner: iuc
   revisions:
   - 46ed93e8da30
+  - a9085181e2a8
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

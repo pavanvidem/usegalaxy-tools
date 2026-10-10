@@ -14,6 +14,7 @@ tools:
   owner: devteam
   revisions:
   - 39865c64a4e1
+  - 6754002631cd
   - 9dd107db92c2
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -21,6 +22,7 @@ tools:
   owner: devteam
   revisions:
   - 0a87b85d9911
+  - 966d4de7bf2d
   - 9e993022c762
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -148,6 +150,7 @@ tools:
 - name: genomad_build_database
   owner: ufz
   revisions:
+  - 34b729713d0c
   - 75abfb03b635
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers

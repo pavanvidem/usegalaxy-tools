@@ -191,12 +191,14 @@ tools:
   - 4ac14b275aca
   - 5b87038565bb
   - 7861f3b10c68
+  - e06d41f3ed3e
   - e30352e889fe
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_groomer
   owner: devteam
   revisions:
+  - 10d4df6a9d94
   - 47e5dbc3e790
   - 71e5fa25b8a2
   - 8611b80a14d6
@@ -345,6 +347,7 @@ tools:
 - name: ucsc_fasplit
   owner: iuc
   revisions:
+  - 1add611a6018
   - 71f649c23021
   - bf04bd405d5b
   - d3f58a0dc09d
@@ -366,6 +369,7 @@ tools:
   revisions:
   - 733ca84b21ee
   - 7521d865e770
+  - c6e3d6cf49df
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: filter_by_fasta_ids

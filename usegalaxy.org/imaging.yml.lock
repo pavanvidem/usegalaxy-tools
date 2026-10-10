@@ -28,6 +28,7 @@ tools:
   owner: imgteam
   revisions:
   - 85edbb7a436b
+  - f0242f99a175
   - fcadded98e61
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -67,11 +68,13 @@ tools:
   owner: goeckslab
   revisions:
   - 49c178651194
+  - b1ead1b7e0aa
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: scimap_phenotyping
   owner: goeckslab
   revisions:
+  - 37dc4f51e827
   - 88fca6e905be
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
