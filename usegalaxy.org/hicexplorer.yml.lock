@@ -100,12 +100,14 @@ tools:
   - 9d02f1819e81
   - c354255ff705
   - f963c251ac77
+  - fdb67db6d500
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicadjustmatrix
   owner: bgruening
   revisions:
   - 2dccb6bb0add
+  - 733162fae8b0
   - 782bdcb775fb
   - e06265d204f6
   - e8760fc0e29b
@@ -144,6 +146,7 @@ tools:
   - 3ee5332bf57c
   - 4f9305d3bb34
   - 5dd1aae12f03
+  - 6f078762ff7f
   - e03780179ee5
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -197,6 +200,7 @@ tools:
   revisions:
   - 07dd436ea686
   - 4977f65da0ff
+  - 5b245b3ded3f
   - 5dfba24d7bdd
   - 77d8e0fd162a
   tool_panel_section_id: hicexplorer
@@ -216,6 +220,7 @@ tools:
   - 11de0d28ab30
   - 478aacfbaa37
   - 755df866ad0c
+  - 7b9fa42ca59c
   - ec4b948dc6f0
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -260,6 +265,7 @@ tools:
   revisions:
   - 1511a8ebe906
   - 1d9799f4b854
+  - 7f88b2b4662d
   - 910c6a1c3a27
   - ed900cd4a0a9
   tool_panel_section_id: hicexplorer
@@ -307,6 +313,7 @@ tools:
   - 11f39d7f6c64
   - 6326cd29c1c3
   - 89cfe7de541b
+  - 9f0578013f9b
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicplotmatrix
@@ -339,6 +346,7 @@ tools:
 - name: hicexplorer_hicquickqc
   owner: bgruening
   revisions:
+  - 0a134c0bdb39
   - 21d859ad4502
   - 5cbd7a902a8d
   - b13e7a200525
@@ -371,6 +379,7 @@ tools:
   revisions:
   - 1de2276f633f
   - 27fe5cd1729c
+  - a4b4bb07ed14
   - df64cc4dfb4d
   - f36828ebdc54
   tool_panel_section_id: hicexplorer
@@ -478,5 +487,6 @@ tools:
   owner: iuc
   revisions:
   - 4a841ab67e3b
+  - e426ba8aeb93
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer

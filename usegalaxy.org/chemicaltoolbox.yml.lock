@@ -18,6 +18,7 @@ tools:
 - name: get_pdb
   owner: bgruening
   revisions:
+  - 0a0ef624cb05
   - 538790c6c21b
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -429,6 +430,7 @@ tools:
   owner: bgruening
   revisions:
   - 01ab890bf0ad
+  - 23284172bc4e
   - a638d8d13bb3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

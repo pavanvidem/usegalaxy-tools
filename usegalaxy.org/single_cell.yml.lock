@@ -126,6 +126,7 @@ tools:
   - 32c5c85cbc12
   - 7a6655aa6eb2
   - 83609ef746e9
+  - 87d9511249cf
   - c0b037b12765
   - c5ac926c838f
   - cfaf5a405371
@@ -157,6 +158,7 @@ tools:
   - 33c0081e16c6
   - 383dcb0500f9
   - 39e945f0b2c1
+  - 3a9aee9e3551
   - 6f0d0c784f09
   - afe044e6bc93
   - ee98d611afc6
@@ -655,6 +657,7 @@ tools:
 - name: snapatac2_preprocessing
   owner: iuc
   revisions:
+  - 20c4011e1458
   - 48d9421bf176
   - 4ecdea4cbea1
   - c5c94e01a1b5
@@ -703,6 +706,7 @@ tools:
 - name: seurat_preprocessing
   owner: iuc
   revisions:
+  - 5d5fe5659252
   - 6bccf5f85f92
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
