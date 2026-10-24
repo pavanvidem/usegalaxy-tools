@@ -114,6 +114,7 @@ tools:
   - 2a9afed42353
   - 645159bcee2d
   - 7b379e98b9a9
+  - 8de9d54f7a96
   - a02b8b3f5a0c
   - a38bdcec9e4c
   - a3c4fe6f49ab
@@ -133,6 +134,7 @@ tools:
   owner: iuc
   revisions:
   - 0f5f4a208660
+  - 16fc9856b20a
   - 19f3b583a9b3
   - 222669c4afb6
   - 9fb055604648

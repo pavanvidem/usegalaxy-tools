@@ -19,6 +19,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -140,6 +141,7 @@ tools:
   revisions:
   - 637ec5d5368c
   - 96e6283e4745
+  - b7e91ff1a894
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: jcvi_gff_stats
@@ -157,6 +159,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -310,6 +313,7 @@ tools:
   - 2b21643ce8d7
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -578,12 +582,14 @@ tools:
 - name: helixer
   owner: genouest
   revisions:
+  - a3586bccb95f
   - c2fc4ac35199
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: omark
   owner: iuc
   revisions:
+  - 0291e0e81551
   - 6f570ba54b41
   - ceb52582a5b1
   tool_panel_section_id: annotation

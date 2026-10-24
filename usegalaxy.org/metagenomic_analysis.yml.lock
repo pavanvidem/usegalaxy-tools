@@ -6,6 +6,7 @@ tools:
 - name: kraken2
   owner: iuc
   revisions:
+  - 1a54e1867fd4
   - 20e2f64aa1fe
   - 328c607150ff
   - 4a9da2b6c2e3
@@ -172,6 +173,7 @@ tools:
 - name: cat_contigs
   owner: iuc
   revisions:
+  - 1254b1db9afc
   - 7aebc0137f20
   - c6c77d840993
   - f41dbb0b9ff8
@@ -218,6 +220,7 @@ tools:
   - 78faebd0879c
   - 806fe614ca46
   - 8daf4564ccda
+  - aae21f831e95
   - ac72310b038a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -234,6 +237,7 @@ tools:
   - 76d3d2b10738
   - 79212a309499
   - 7c2100246a2f
+  - e0aea8e800d7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_removebimeradenovo
@@ -247,6 +251,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
@@ -559,6 +564,7 @@ tools:
 - name: metabat2
   owner: iuc
   revisions:
+  - c63e45a190b5
   - eb50e7eca3dc
   - f375b4f6ef57
   tool_panel_section_id: metagenomic_analysis
@@ -573,6 +579,7 @@ tools:
   owner: iuc
   revisions:
   - 00e3b4ef7e0c
+  - 45f6d77d37b7
   - ec045ca00b50
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

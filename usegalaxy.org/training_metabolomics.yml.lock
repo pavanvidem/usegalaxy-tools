@@ -94,6 +94,7 @@ tools:
   owner: recetox
   revisions:
   - 2ec9253a647e
+  - bfdf5de99cd2
   - da7722f665f4
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -101,6 +102,7 @@ tools:
   owner: recetox
   revisions:
   - 25625114618e
+  - b0a739025b81
   - f2c1d0bbb074
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -134,6 +136,7 @@ tools:
 - name: xcms_export_samplemetadata
   owner: lecorguille
   revisions:
+  - 46f13a609b3e
   - 4ea32e46b2d6
   - 94eb263cfab4
   - cdab04a1d1d7
@@ -147,6 +150,7 @@ tools:
   - 8846a03995d3
   - 9291271ec4d9
   - c8bef8f6a1cb
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_summary
@@ -156,6 +160,7 @@ tools:
   - 1ae878634ab3
   - 2a2850fdf29e
   - 444e3ed135e3
+  - 773aea6651d2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: idchoice
