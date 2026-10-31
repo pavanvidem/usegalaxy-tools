@@ -34,6 +34,7 @@ tools:
   - 7594365c546b
   - 875d0f36d66f
   - a3b35edea53a
+  - baeffe7bfe47
   - ebb0dcdb621a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -210,6 +211,7 @@ tools:
   - 6766a94ef559
   - 7922870efcca
   - 9de69775f512
+  - dcaf2403747d
   - e060c3987513
   - ea83ac535a1f
   - ed32d95f436a
@@ -432,6 +434,7 @@ tools:
 - name: rnaquast
   owner: iuc
   revisions:
+  - 734fbbd94307
   - 8e66f695d859
   - f73ab5187eed
   tool_panel_section_id: assembly
@@ -471,6 +474,7 @@ tools:
   revisions:
   - 060f0fed864e
   - 39df08e91cdf
+  - 3b91601ad5df
   - 53d73d58e105
   - a7035be049e4
   - c46d1454f3a1
@@ -508,6 +512,7 @@ tools:
   owner: iuc
   revisions:
   - bb6774c6aeaf
+  - e893b7452150
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_filter_kmers
@@ -526,12 +531,14 @@ tools:
   owner: iuc
   revisions:
   - 9a0227fa7521
+  - fa86bf923473
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_print
   owner: iuc
   revisions:
   - 4ffdd07cc5b6
+  - 9c3c7a147412
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_trio_mode

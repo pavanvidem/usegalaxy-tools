@@ -208,6 +208,7 @@ tools:
   - 4eb04768cd49
   - 5fce85148ed1
   - a850902cac64
+  - a9f66225bacd
   - c9c5718edc19
   - e53501abf992
   - fc19c09a8beb
@@ -220,6 +221,7 @@ tools:
   - 283911fe7e1a
   - 2ee1392161a6
   - 5c232a738c74
+  - 66520720289f
   - 6cf13a657cf6
   - 84cf4959145a
   - 89720ec3d58e
@@ -239,6 +241,7 @@ tools:
   - 8a885a1a92ea
   - 8e01baf41774
   - 95815a0bb307
+  - b79aae13e613
   - b7ea370b8f5d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -367,6 +370,7 @@ tools:
   - 94e91cca87b2
   - 99f4a81a47be
   - a12844ca467a
+  - ecb9cfd7b005
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_stats
@@ -374,6 +378,7 @@ tools:
   revisions:
   - '388983871932'
   - 591cc8518033
+  - 7aea930ab6cc
   - 999c1918479b
   - 9c0028888512
   - a2f8dc22d7c0
@@ -393,6 +398,7 @@ tools:
   - 982bc0e518c8
   - 9ef52d95114b
   - b3b3c060962e
+  - b7432d10bd2d
   - d453025d7e5d
   - d68c43202172
   tool_panel_section_id: vcf_bcf
@@ -407,6 +413,7 @@ tools:
   - 75becf493cd3
   - 776ad0b21536
   - 8dbce095986c
+  - b6a0766aec3b
   - bc5332d47b1c
   - dcf130f10ca5
   tool_panel_section_id: vcf_bcf
@@ -417,6 +424,7 @@ tools:
   - 012656fd329f
   - 04aa97fc125c
   - 348cd212dbad
+  - 506cb7ed2a11
   - 7ca6120cb2a4
   - 7cea7c7bf203
   - b8e9da766b0f
@@ -464,6 +472,7 @@ tools:
   - af36eb5418fe
   - bf235558f2cf
   - e0a856def0b0
+  - e52c0cfa25c4
   - f544f71adb73
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF

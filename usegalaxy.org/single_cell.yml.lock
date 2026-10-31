@@ -15,6 +15,7 @@ tools:
   - 6f5349dd5c49
   - 70fa84e99463
   - 7647e5cd1b8b
+  - 7f478b3258ec
   - 95777145cb92
   - 9a169729c9f9
   - 9b0cdb8cf6be
@@ -65,6 +66,7 @@ tools:
   owner: iuc
   revisions:
   - 146ae5d70b47
+  - 2b6498d4c8c6
   - 4766556db52c
   - 4bda4412b8c2
   - 51d945eab1e1
@@ -90,6 +92,7 @@ tools:
   - 64ff3ef24fae
   - 6acb08931836
   - 6f83f8fd381f
+  - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
@@ -215,6 +218,7 @@ tools:
   - 7608d5faee41
   - 8b917923f7d4
   - b83fbc90161e
+  - b9712ed9c027
   - d45f092caf24
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -555,6 +559,7 @@ tools:
   revisions:
   - d0f56ac6bb60
   - d1b34ac42b8f
+  - e188e2c2598b
   - fb61eb03e313
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -692,6 +697,7 @@ tools:
   owner: iuc
   revisions:
   - 74fa68f4e579
+  - ade6d8b67576
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot

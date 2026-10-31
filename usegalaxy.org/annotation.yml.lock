@@ -67,6 +67,7 @@ tools:
   - 4e70d88adf2f
   - 602fb8e63aa7
   - 94170eee0ad8
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -157,6 +158,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -380,6 +382,7 @@ tools:
   revisions:
   - 1563b58905f4
   - 554aa2a63f04
+  - b0e8176203e1
   - fa7086274673
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -527,6 +530,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
@@ -547,6 +551,7 @@ tools:
   owner: iuc
   revisions:
   - 7075b7a5441b
+  - 8621b220c13e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: integron_finder
@@ -571,6 +576,7 @@ tools:
 - name: agat
   owner: bgruening
   revisions:
+  - 80b0055ba314
   - d6ede73082da
   - e7449b2c14bf
   tool_panel_section_id: annotation
@@ -584,6 +590,7 @@ tools:
 - name: omark
   owner: iuc
   revisions:
+  - 0291e0e81551
   - 6f570ba54b41
   - ceb52582a5b1
   tool_panel_section_id: annotation

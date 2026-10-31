@@ -155,6 +155,7 @@ tools:
 - name: gtftobed12
   owner: iuc
   revisions:
+  - 33de73363690
   - 57d45064f114
   - 75a14cc16d4d
   - b026dae67fba
@@ -216,11 +217,13 @@ tools:
   - 3e81299dfce3
   - 601575b847c0
   - 8dbc700cb940
+  - db7c0226ebd9
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 3cf310697624
@@ -243,11 +246,13 @@ tools:
   - 0bfdf46e5e31
   - 43fd2ba63c16
   - 7f7f2ee03430
+  - 9a275b659c7e
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 4ac5179f245c
   - 65a69de1e294
   - 66617be450bd
   - 8d6686664021

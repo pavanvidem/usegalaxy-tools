@@ -350,6 +350,7 @@ tools:
   owner: bgruening
   revisions:
   - 4e3b2049a4d3
+  - 6cc6c7ef23df
   - f70b83b730ac
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -429,6 +430,7 @@ tools:
   owner: bgruening
   revisions:
   - 01ab890bf0ad
+  - 23284172bc4e
   - a638d8d13bb3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -545,6 +547,7 @@ tools:
   owner: bgruening
   revisions:
   - 5486f7a2b0cb
+  - d9d5aa013bb4
   - fac2c28b4c55
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -841,6 +844,7 @@ tools:
 - name: qcxms_production_run
   owner: recetox
   revisions:
+  - 1c7e10729065
   - cbe34f060712
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

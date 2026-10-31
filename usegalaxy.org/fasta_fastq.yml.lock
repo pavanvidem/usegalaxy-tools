@@ -29,6 +29,7 @@ tools:
   - c0b2c2e39c9c
   - c5e2e5902201
   - de6cebe3c043
+  - e075c7e866d1
   - e4691e1589d3
   - f5fdf41c08b8
   - fe74900d6dc7
@@ -137,6 +138,7 @@ tools:
   owner: devteam
   revisions:
   - 09a2199cd356
+  - 791e195810ad
   - 822cc1e6274e
   - 8d958759cf2a
   - c885369b207b
@@ -338,6 +340,7 @@ tools:
 - name: sickle
   owner: iuc
   revisions:
+  - 482fb7008500
   - 6756c87dc2d4
   - 9108bd9450cb
   tool_panel_section_id: fasta_fastq

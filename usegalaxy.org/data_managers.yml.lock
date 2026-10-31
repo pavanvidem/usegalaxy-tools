@@ -8,12 +8,14 @@ tools:
   revisions:
   - 4a82d1157b14
   - 4d3eff1bc421
+  - 7e9b2f60c9e1
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
 - name: data_manager_bowtie2_index_builder
   owner: devteam
   revisions:
   - 39865c64a4e1
+  - 6754002631cd
   - 9dd107db92c2
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -21,6 +23,7 @@ tools:
   owner: devteam
   revisions:
   - 0a87b85d9911
+  - 966d4de7bf2d
   - 9e993022c762
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -39,12 +42,14 @@ tools:
 - name: data_manager_picard_index_builder
   owner: devteam
   revisions:
+  - 4ecc89d41604
   - 7124d2c14e4b
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
 - name: data_manager_sam_fasta_index_builder
   owner: devteam
   revisions:
+  - 1decaa640ada
   - a256278e5bff
   - ad90c2da4f38
   - defd3e9ddd2d
@@ -53,6 +58,7 @@ tools:
 - name: data_manager_hisat2_index_builder
   owner: iuc
   revisions:
+  - 596dfee9e3bc
   - d74c740bdb25
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -68,6 +74,7 @@ tools:
   revisions:
   - 39a922d01b0d
   - 9c91b5015dd3
+  - b3f54bd230de
   - cb157f55b4fd
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -81,6 +88,7 @@ tools:
 - name: data_manager_snpeff
   owner: iuc
   revisions:
+  - c3cdca7f40a2
   - def511e8e005
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -94,6 +102,7 @@ tools:
 - name: data_manager_fetch_ncbi_taxonomy
   owner: devteam
   revisions:
+  - 2649aece3781
   - 34a5799a65fa
   - 6dd9e00dea95
   tool_panel_section_id: data_managers
@@ -108,6 +117,7 @@ tools:
   owner: iuc
   revisions:
   - 13851aefa67a
+  - 19f0b8b9a118
   - 1e34d2e3d285
   - 201eff2131d6
   - 539b008cfe1c
@@ -120,6 +130,7 @@ tools:
 - name: data_manager_build_bracken_database
   owner: iuc
   revisions:
+  - 174a754bd3b6
   - 5c8a23ccb14a
   - 84cc0dc92b0c
   tool_panel_section_id: data_managers
@@ -130,6 +141,7 @@ tools:
   - 19ef193d1316
   - 23511530b8fd
   - 4cd97cc67061
+  - c25818208c77
   - dbf2735e8480
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
