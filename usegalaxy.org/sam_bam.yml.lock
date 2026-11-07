@@ -6,6 +6,7 @@ tools:
 - name: samtools_sort
   owner: devteam
   revisions:
+  - 2ce517eb9af2
   - 6c2c1836728b
   - a577ea614bed
   - d54a4df48867
@@ -47,6 +48,7 @@ tools:
 - name: samtools_idxstats
   owner: devteam
   revisions:
+  - 13aad5cb9be4
   - 7a6034296ae9
   - 7def34e6cf4d
   - fa5d3e61e429
@@ -343,6 +345,7 @@ tools:
 - name: samtools_coverage
   owner: iuc
   revisions:
+  - 5160be5d088f
   - c4ff13d2aab3
   - f4f7f632815d
   tool_panel_section_id: sam_bam

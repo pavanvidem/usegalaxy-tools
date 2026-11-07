@@ -47,6 +47,7 @@ tools:
   - b9906ce4756c
   - bedbda03c573
   - f22a9297440f
+  - fb731872d453
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_builder
@@ -117,6 +118,7 @@ tools:
   - 867caa39eaa4
   - 89deaf399ff7
   - 9fda0b82f419
+  - aa243478bb94
   - adaf2457d6ec
   - bd27a211182a
   - c9ddd20d25d0
@@ -181,6 +183,7 @@ tools:
   - 301e07345c93
   - 36e8d6d5d01b
   - 7626ea9c2e1b
+  - 8eb081549c98
   - a36a45cb96fa
   - d37a7f17e35d
   - e5a5ad882f1f
@@ -242,6 +245,7 @@ tools:
   - 2d7c60aa6c62
   - 73e7f1c76ece
   - 7dd3fb35904f
+  - 88bd281cdf65
   - 8eed73e8e04d
   - ad7e0b4291ee
   - aeca97d9a214
@@ -257,6 +261,7 @@ tools:
   - 1682df52c084
   - 1a53edc4b438
   - 315f01a9d2c2
+  - 398c7e90ded2
   - 3ab7af14f1b5
   - 407495139a09
   - 4ecc0ce9d0a2
@@ -293,6 +298,7 @@ tools:
   - 761269451e98
   - 80074b842ebd
   - 826c3e68e7a9
+  - 9452bddf21bd
   - a5c2ce4ea328
   - add3c3a7c2b4
   - eb9da067ab26
@@ -369,6 +375,7 @@ tools:
   - 1c25f305db70
   - 734c66aa945a
   - 8e447b95e6a8
+  - aaf492da76d4
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -452,6 +459,7 @@ tools:
   owner: bgruening
   revisions:
   - 03e0da430d44
+  - 1728b4a3895e
   - 24c1cc2dd4a4
   - 3af626081467
   - 945a53c248de

@@ -7,6 +7,7 @@ tools:
   owner: iuc
   revisions:
   - 27673f5b5343
+  - 28e85c2ef178
   - 359e043a285c
   - 767943cd85bf
   - 7ecb45126cd2
@@ -82,6 +83,7 @@ tools:
   - 43807a65369f
   - 4b347702c4aa
   - 614a63f14adf
+  - 9af11085c5c6
   - ccf4e1d1fcbe
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -132,6 +134,7 @@ tools:
   - 97979c3d179f
   - b21851ddcc79
   - d4965adac10c
+  - d8649c4e4c3a
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: crossmap_gff
@@ -165,6 +168,7 @@ tools:
   revisions:
   - 356dc923f8d3
   - 3c6f9e8a4c17
+  - 549bf96a2b5b
   - 8067dfa00ed2
   - e9bbe2f71784
   tool_panel_section_id: convert_formats
@@ -248,6 +252,7 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 4ac5179f245c
   - 65a69de1e294
   - 66617be450bd
   - 8d6686664021
@@ -260,6 +265,7 @@ tools:
   revisions:
   - 07d093aaf3b4
   - 24eec94e6dfc
+  - 3a66889baf43
   - 6ff67d2860e1
   - def7a82d23e1
   - f3233d395549
@@ -276,6 +282,7 @@ tools:
   owner: iuc
   revisions:
   - 31a442afee19
+  - 66c6bc690c0e
   - 8990ed3ff747
   - f063c97a7f8f
   tool_panel_section_id: convert_formats
@@ -285,6 +292,7 @@ tools:
   revisions:
   - 3c19c84fbce2
   - a40dd4fd3096
+  - c8eefc6bf631
   - d9965e143053
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats

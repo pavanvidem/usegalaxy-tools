@@ -185,6 +185,7 @@ tools:
   - b35de691c42c
   - cb34f00cc10f
   - d915879a88bc
+  - d9b6a4615626
   - fc8804320156
   tool_panel_section_id: nanopore
   tool_panel_section_label: Nanopore

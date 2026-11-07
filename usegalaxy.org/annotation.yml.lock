@@ -19,6 +19,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -67,6 +68,7 @@ tools:
   - 4e70d88adf2f
   - 602fb8e63aa7
   - 94170eee0ad8
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -198,6 +200,7 @@ tools:
   revisions:
   - 1f5641a52664
   - 31812e7a1315
+  - 578b60b1279d
   - ded48b36f3b7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -212,6 +215,7 @@ tools:
   - 6611881d27ce
   - 67b793424b0c
   - 8ada50a892fa
+  - 8fbb0629a99d
   - a77f693df58c
   - ff65a73f5379
   tool_panel_section_id: annotation
@@ -234,6 +238,7 @@ tools:
   owner: iuc
   revisions:
   - 15ac71df11a0
+  - 3f12675edf68
   - 78608ec02d62
   - 809e42326fc2
   - 91887494eb97
@@ -276,6 +281,7 @@ tools:
   - 2c68b0c38785
   - 4839e590cb26
   - 51dd22484644
+  - 60a1dad331ec
   - 809dfc93d593
   - 8cb134b8c1a5
   - ac8250086ac3
@@ -489,6 +495,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
@@ -507,6 +514,7 @@ tools:
 - name: windowmasker
   owner: iuc
   revisions:
+  - 81da9f1757b1
   - d90ae4a02efd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -515,6 +523,7 @@ tools:
   revisions:
   - 438287deae4b
   - aeb4c76d007b
+  - e64445f727cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: miniprot
@@ -540,6 +549,7 @@ tools:
 - name: isescan
   owner: iuc
   revisions:
+  - 81539b9ae80a
   - 9e776e7fab4f
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -547,11 +557,13 @@ tools:
   owner: iuc
   revisions:
   - 7075b7a5441b
+  - 8621b220c13e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -571,6 +583,7 @@ tools:
 - name: agat
   owner: bgruening
   revisions:
+  - 80b0055ba314
   - d6ede73082da
   - e7449b2c14bf
   tool_panel_section_id: annotation
@@ -584,6 +597,7 @@ tools:
 - name: omark
   owner: iuc
   revisions:
+  - 0291e0e81551
   - 6f570ba54b41
   - ceb52582a5b1
   tool_panel_section_id: annotation
@@ -598,5 +612,6 @@ tools:
   owner: iuc
   revisions:
   - 59d308975e63
+  - cfe8742b704e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

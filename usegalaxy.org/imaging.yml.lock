@@ -20,6 +20,7 @@ tools:
 - name: 2d_auto_threshold
   owner: imgteam
   revisions:
+  - 2ee04d2ebdcf
   - 3df9f0a4bf34
   - 699a5e9146b3
   tool_panel_section_id: imaging

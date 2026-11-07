@@ -14,6 +14,7 @@ tools:
 - name: ludwig_hyperopt
   owner: goeckslab
   revisions:
+  - 271ecb35891e
   - b486ca953371
   - d76cac7bae15
   - fed9b5eaa829
@@ -54,6 +55,7 @@ tools:
 - name: ludwig_evaluate
   owner: goeckslab
   revisions:
+  - 29ee176f839b
   - 7cb9e77d9909
   - e55790a3e8a7
   tool_panel_section_id: machine_learning
