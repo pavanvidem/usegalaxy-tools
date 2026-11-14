@@ -34,6 +34,7 @@ tools:
 - name: binary2labelimage
   owner: imgteam
   revisions:
+  - 364e235bf378
   - 7f8102bdbfa1
   - 984358e43242
   tool_panel_section_id: imaging
@@ -72,6 +73,7 @@ tools:
 - name: scimap_phenotyping
   owner: goeckslab
   revisions:
+  - 37dc4f51e827
   - 88fca6e905be
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

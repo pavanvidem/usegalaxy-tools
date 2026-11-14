@@ -193,6 +193,7 @@ tools:
   owner: iuc
   revisions:
   - 2c1200fba922
+  - 2ee6ff4d70fc
   - a9caad671439
   - cdf4443d5625
   - cfe1e6c28d95
@@ -236,6 +237,7 @@ tools:
   - 6e90c8adf84f
   - a6821f856a1e
   - c8434a623268
+  - fb7906aa5791
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_trajectory
@@ -484,6 +486,7 @@ tools:
   owner: iuc
   revisions:
   - 5c9b16bdbd5e
+  - 9e80ebd12099
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: retrieve_scxa
@@ -655,6 +658,7 @@ tools:
 - name: snapatac2_preprocessing
   owner: iuc
   revisions:
+  - 20c4011e1458
   - 48d9421bf176
   - 4ecdea4cbea1
   - c5c94e01a1b5
@@ -697,6 +701,7 @@ tools:
 - name: seurat_plot
   owner: iuc
   revisions:
+  - 98bb79188c3f
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

@@ -77,6 +77,7 @@ tools:
   - 46c6639921f1
   - 6856f8a01905
   - 9149ad20699a
+  - cc01c0658f6c
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_split
@@ -326,6 +327,7 @@ tools:
   - 5f3ea90dc6ae
   - 6a8febad1f6c
   - a941babb9268
+  - d2f176e331ef
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: revertr2orientationinbam

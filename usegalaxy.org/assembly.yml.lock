@@ -8,6 +8,7 @@ tools:
   revisions:
   - '392811378515'
   - 53dd00a4ab68
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -149,6 +150,7 @@ tools:
   owner: iuc
   revisions:
   - 037f9927c4ff
+  - 2c86bbf5db00
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
@@ -277,6 +279,7 @@ tools:
   - 6505bd37670d
   - 71740308d412
   - 9ef6920c3089
+  - b562f08eb13a
   - bf0a4667e3ce
   - df25d4fb79b7
   - f3c89da3af16
@@ -288,6 +291,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -317,6 +321,7 @@ tools:
   owner: iuc
   revisions:
   - 01210c4e9144
+  - 0bace381c9fd
   - 3169a38c2656
   - 460fad600dce
   - b2f674562a18
@@ -471,6 +476,7 @@ tools:
   revisions:
   - 060f0fed864e
   - 39df08e91cdf
+  - 3b91601ad5df
   - 53d73d58e105
   - a7035be049e4
   - c46d1454f3a1
@@ -537,6 +543,7 @@ tools:
 - name: meryl_trio_mode
   owner: iuc
   revisions:
+  - 416dff497d49
   - 47e9001da01b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly

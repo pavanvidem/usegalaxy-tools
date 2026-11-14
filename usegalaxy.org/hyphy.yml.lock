@@ -155,6 +155,7 @@ tools:
   - ae95a6b22562
   - af7490b6329b
   - b110a31a9c61
+  - b156ae1424fe
   - b6e3961a25ff
   - bab5041d177e
   - c32f3d3e8a92
@@ -348,6 +349,7 @@ tools:
   - 4bf743518e41
   - 50554f806e16
   - 7c86ceaf523c
+  - aaf823b11580
   - dc8875a13914
   - f5bbd4b34541
   tool_panel_section_id: hyphy

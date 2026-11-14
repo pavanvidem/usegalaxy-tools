@@ -8,6 +8,7 @@ tools:
   revisions:
   - 009b18a75dc3
   - 02f7746e7772
+  - 4aa511539199
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: pycaret_predict
@@ -165,6 +166,7 @@ tools:
   - ab2c393080f9
   - ab9977548806
   - b4ba9602a36e
+  - cb2cfcaf6ba8
   - db7eb7302fc9
   - e99cccc3ca13
   - eb41d87cb1de
@@ -181,6 +183,7 @@ tools:
   - 301e07345c93
   - 36e8d6d5d01b
   - 7626ea9c2e1b
+  - 8eb081549c98
   - a36a45cb96fa
   - d37a7f17e35d
   - e5a5ad882f1f
@@ -226,6 +229,7 @@ tools:
   - 309cc7c6af56
   - 39ae3c043096
   - 4db563e8d453
+  - 531513ce17a5
   - 7ae443e6217d
   - 823ecc0bce45
   - 8b1b2b91f8d0
@@ -242,6 +246,7 @@ tools:
   - 2d7c60aa6c62
   - 73e7f1c76ece
   - 7dd3fb35904f
+  - 88bd281cdf65
   - 8eed73e8e04d
   - ad7e0b4291ee
   - aeca97d9a214
@@ -276,6 +281,7 @@ tools:
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
+  - a79e439ac817
   - a7c667ff83fe
   - ae0fafb53c1d
   - c2cd3219543a
@@ -369,6 +375,7 @@ tools:
   - 1c25f305db70
   - 734c66aa945a
   - 8e447b95e6a8
+  - aaf492da76d4
   - adb084b901cc
   - f0ede473a7e8
   - fb17e19b62a4
@@ -390,6 +397,7 @@ tools:
   - b6f5443c4f58
   - ce2fd1edbc6e
   - e10ffa9e0b90
+  - e3d00d324fb7
   - e8639f65c883
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -416,6 +424,7 @@ tools:
   - 2d53571c2f00
   - 612ca26c197d
   - 61634a87efc7
+  - 722379be2338
   - a4f18bbb4eca
   - caeb57858702
   - f93f0cdbaf18
@@ -452,6 +461,7 @@ tools:
   owner: bgruening
   revisions:
   - 03e0da430d44
+  - 1728b4a3895e
   - 24c1cc2dd4a4
   - 3af626081467
   - 945a53c248de

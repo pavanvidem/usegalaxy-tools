@@ -10,5 +10,6 @@ tools:
   - 4b494533146a
   - 58c8ece95b53
   - a019807f4e67
+  - c8fb17965c7d
   tool_panel_section_id: seqtk
   tool_panel_section_label: Seqtk

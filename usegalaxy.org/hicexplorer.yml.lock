@@ -159,6 +159,7 @@ tools:
 - name: hicexplorer_hicconvertformat
   owner: bgruening
   revisions:
+  - 0d0c6092cc43
   - 2ba6cee8e4db
   - 574f295b5ba4
   - a83732c79949
@@ -197,6 +198,7 @@ tools:
   revisions:
   - 07dd436ea686
   - 4977f65da0ff
+  - 5b245b3ded3f
   - 5dfba24d7bdd
   - 77d8e0fd162a
   tool_panel_section_id: hicexplorer
@@ -260,6 +262,7 @@ tools:
   revisions:
   - 1511a8ebe906
   - 1d9799f4b854
+  - 7f88b2b4662d
   - 910c6a1c3a27
   - ed900cd4a0a9
   tool_panel_section_id: hicexplorer
@@ -268,6 +271,7 @@ tools:
   owner: bgruening
   revisions:
   - 11fa44ee0603
+  - 7011782fdbaf
   - 977dc15add20
   - 9d93c8fbe0a6
   - f72063d9426b
@@ -371,6 +375,7 @@ tools:
   revisions:
   - 1de2276f633f
   - 27fe5cd1729c
+  - a4b4bb07ed14
   - df64cc4dfb4d
   - f36828ebdc54
   tool_panel_section_id: hicexplorer
@@ -418,6 +423,7 @@ tools:
   owner: iuc
   revisions:
   - 33b1c99cc709
+  - 38ece0c4e316
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: schicexplorer_schiccorrectmatrices
@@ -459,6 +465,7 @@ tools:
 - name: schicexplorer_schicnormalize
   owner: iuc
   revisions:
+  - 12825fd4c91c
   - 66e96c3d3c5d
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
